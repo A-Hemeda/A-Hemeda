@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hemeda 👑</h1>
 <h3 align="center">Mobile Application Developer 💎</h3>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=0e75b6&style=flat" alt="a-hemeda" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=0e75b6&style=flat" alt="a-hemeda" />
+		               <img src="https://badges.pufler.dev/repos/manarshahin48" alt="a-hemeda" />
+		               <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="a-hemeda" />
+</p>
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 - ✅ My [To Do App](http://play.google.com/store/apps/details?id=com.hemeda.daily_tasks)
 
