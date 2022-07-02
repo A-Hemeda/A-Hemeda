@@ -9,7 +9,7 @@
 
 - 💡 My [Memory Game](http://play.google.com/store/apps/details?id=com.hemeda.memory_game)
 
-- 💬 Ask me about **Creativity 💫**
+- 💫 Ask me about **Creativity **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
