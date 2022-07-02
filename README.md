@@ -5,22 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda" alt="a-hemeda" /></a> </p>
 
-- 👌🏼 My [To Do App](http://play.google.com/store/apps/details?id=com.hemeda.daily_tasks)
-
-- 🌱 I’m currently learning **German language 🇩🇪**
+- ✅ My [To Do App](http://play.google.com/store/apps/details?id=com.hemeda.daily_tasks)
 
 - 💡 My [Memory Game](http://play.google.com/store/apps/details?id=com.hemeda.memory_game)
 
-- ⚡ Another Projects: **Muslim App & Gym App 💪🏼**
-
 - 💬 Ask me about **Creativity 💫**
-
-- 📫 How to reach me **ahmedhemeda125@gmail.com ❤**
-
-- 📄 Know about my experiences [http://drive.google.com/file/d/1jSNVCvBdoAEuZw-JMf1A4zJOweLO84GM/view?usp=drivesdk](http://drive.google.com/file/d/1jSNVCvBdoAEuZw-JMf1A4zJOweLO84GM/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/ahmedhemeda11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahmedhemeda11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed-hemeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-hemeda" height="30" width="40" /></a>
 <a href="https://fb.com/ahmedhemeda11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmedhemeda11" height="30" width="40" /></a>
 <a href="https://instagram.com/a.hemeda11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.hemeda11" height="30" width="40" /></a>
