@@ -2,8 +2,8 @@
 <h3 align="center">Mobile Application Developer 💎</h3>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=0e75b6&style=flat" alt="a-hemeda" />
-		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="a-hemeda" />
-	           <img src="https://badges.pufler.dev/repos/manarshahin48" alt="a-hemeda" />
+		   <img src="https://img.shields.io/github/followers/a-hemeda?label=Followers" alt="a-hemeda" />
+	           <img src="https://badges.pufler.dev/repos/a-hemeda" alt="a-hemeda" />
 </p>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
@@ -12,7 +12,7 @@
 
 - 💡 My [Memory Game](http://play.google.com/store/apps/details?id=com.hemeda.memory_game)
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
 <a href="https://codepen.io/ahmedhemeda11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahmedhemeda11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed-hemeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-hemeda" height="30" width="40" /></a>
