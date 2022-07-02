@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hemeda 👑</h1>
 <h3 align="center">Mobile Application Developer 💎</h3>
-<p align="center">    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=0e75b6&style=flat" alt="a-hemeda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda" alt="a-hemeda" /></a> </p>
