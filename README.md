@@ -26,7 +26,6 @@
 
 ## 📊 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-hemeda)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&show_icons=true&locale=en&layout=compact" alt="a-hemeda" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&locale=en" alt="a-hemeda" /></p>
 <br>
