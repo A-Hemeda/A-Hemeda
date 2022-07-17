@@ -13,10 +13,10 @@
 
 ## 📩 Connect with me
 <p align="left">
-<a href="https://codepen.io/ahmedhemeda11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahmedhemeda11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahmed-hemeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-hemeda" height="30" width="40" /></a>
-<a href="https://fb.com/ahmedhemeda11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmedhemeda11" height="30" width="40" /></a>
-<a href="https://instagram.com/a.hemeda11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.hemeda11" height="30" width="40" /></a>
+<a href="https://codepen.io/ahmedhemeda11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahmedhemeda11" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/ahmed-hemeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-hemeda" height="40" width="50" /></a>
+<a href="https://fb.com/a.hemeda11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a.hemeda11" height="40" width="50" /></a>
+<a href="https://instagram.com/a.hemeda11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.hemeda11" height="40" width="50" /></a>
 </p>
 <br>
 
