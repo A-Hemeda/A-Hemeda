@@ -25,9 +25,9 @@
 <br>
 
 ## 📊 GitHub Stats
-<p align="center">
- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&show_icons=true&locale=en&layout=compact&theme=algolia" alt="a-hemeda" /></p>
-<p> &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&locale=en&theme=algolia" alt="a-hemeda" /></p>
+<p>
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&show_icons=true&locale=en&layout=compact&theme=algolia" alt="a-hemeda" />
+ &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&locale=en&theme=algolia" alt="a-hemeda" /></p>
 <br>
 
 ## 🏆 GitHu Profile Trophies
