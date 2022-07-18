@@ -26,7 +26,6 @@
 
 ## 📊 GitHub Stats
 <p> &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&locale=en&theme=tokyonight" alt="a-hemeda" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="a-hemeda" /> </p>
-<br>
 
 ## 🏆 GitHu Profile Trophies
 <p align="center">
