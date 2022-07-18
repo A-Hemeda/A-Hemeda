@@ -2,7 +2,6 @@
 <h3 align="center">Flutter Developer 💎</h3>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+Follow+Each+Other+💖" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=004080&style=flat" alt="a-hemeda" height="30" width="180" />
-		   <img src="https://badges.pufler.dev/repos/a-hemeda" alt="a-hemeda" height="30" width="90" />
 	           <img src="https://img.shields.io/github/followers/a-hemeda?label=Followers&color=600000&style=flat" alt="a-hemeda" height="30" width="120" />
 </p>
 <br>
@@ -27,6 +26,7 @@
 
 ## 📊 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-hemeda)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=manarshahin48&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="a-hemeda" height="230px"/>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&locale=en" alt="a-hemeda" /></p>
 <br>
