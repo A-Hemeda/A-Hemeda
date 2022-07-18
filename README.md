@@ -29,7 +29,7 @@
  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&show_icons=true&locale=en&layout=compact&theme=algolia" alt="a-hemeda" /></p>
 <p align="center"> &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&locale=en&theme=algolia" alt="a-hemeda" /></p>
 <br>
+
 ## 🏆 GitHu Profile Trophies
-<br>
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda" /></a> </p>
