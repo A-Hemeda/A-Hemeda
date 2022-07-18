@@ -25,11 +25,9 @@
 <br>
 
 ## 📊 Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-hemeda)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=manarshahin48&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="a-hemeda" height="230px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manarshahin48&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="a-hemeda" width="500" height="200px"/>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&locale=en" alt="a-hemeda" /></p>
-<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-hemeda&" alt="a-hemeda" /></p>
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda" alt="a-hemeda" /></a> </p>
