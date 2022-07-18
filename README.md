@@ -25,7 +25,7 @@
 <br>
 
 ## 📊 Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="a-hemeda" width="1800" height="300px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="a-hemeda" width="2200" height="300px"/>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&locale=en" alt="a-hemeda" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a-hemeda&" alt="a-hemeda" /></p>
 <br>
