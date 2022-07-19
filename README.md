@@ -9,7 +9,7 @@
 
 # ✅ My [To Do App](http://play.google.com/store/apps/details?id=com.hemeda.daily_tasks)
 
-# 💡 My [Memory Game](http://play.google.com/store/apps/details?id=com.hemeda.memory_game)
+# 🧸 My [Memory Game](http://play.google.com/store/apps/details?id=com.hemeda.memory_game)
 
 ## 📩 Connect with me
 <p align="left">
