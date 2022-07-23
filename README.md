@@ -7,9 +7,9 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 300px/>
 
-# ✅ My [To Do App](http://play.google.com/store/apps/details?id=com.hemeda.daily_tasks)
+## ✅ My [To Do App](http://play.google.com/store/apps/details?id=com.hemeda.daily_tasks)
 
-# 🧸 My [Memory Game](http://play.google.com/store/apps/details?id=com.hemeda.memory_game)
+## 🧸 My [Memory Game](http://play.google.com/store/apps/details?id=com.hemeda.memory_game)
 
 ## 📩 Connect with me
 <p align="left">
