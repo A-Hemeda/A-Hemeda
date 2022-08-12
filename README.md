@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hemeda 👑</h1>
 <h2 align="center">Flutter Developer 💎</h2>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome,+Let's+follow+each+other+💖" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=004075&style=flat" alt="a-hemeda" height="30" width="180" />
-	           <img src="https://img.shields.io/github/followers/a-hemeda?label=Followers&color=650000&style=flat" alt="a-hemeda" height="30" width="120" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=003585&style=flat" alt="a-hemeda" height="30" width="180" />
+	           <img src="https://img.shields.io/github/followers/a-hemeda?label=Followers&color=700000&style=flat" alt="a-hemeda" height="30" width="120" />
 </p>
 <br>
 
