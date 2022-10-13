@@ -4,6 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=004080&style=flat" alt="a-hemeda" height="40" width="240" />
 	           <img src="https://img.shields.io/github/followers/a-hemeda?label=Followers&color=800000&style=flat" alt="a-hemeda" height="40" width="160" />
 </p>
+Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=a-hemeda
 <br>
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
