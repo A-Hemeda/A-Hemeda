@@ -8,7 +8,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
 
-# 🤲🏼 [Azkar App](http://play.google.com/store/apps/details?id=com.hemeda.azkary)
+// # 🤲🏼 [Azkar App](http://play.google.com/store/apps/details?id=com.hemeda.azkary)
 
 # ✅ [To Do App](http://play.google.com/store/apps/details?id=com.hemeda.daily_tasks)
 
