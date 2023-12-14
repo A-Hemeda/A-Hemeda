@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hemeda 👑</h1>
 <h2 align="center">Software Engineer | Freelancer 🇵🇸</h2>
-<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Follow+me+to+see+more+updates+️‍🔥" /> </h2>
+<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Follow+to+see+new+updates+️‍🔥" /> </h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=004575&style=flat" alt="a-hemeda" height="65" width="420" />
 <br>
 	           <img src="https://img.shields.io/github/followers/a-hemeda?label=Followers&color=800000&style=flat" alt="a-hemeda" height="55" width="220" />
