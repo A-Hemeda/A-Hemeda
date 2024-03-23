@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hemeda 👑</h1>
-<h2 align="center">Software Engineer | Mobile Application Developer</h2>
+<h2 align="center">Software Developer | Mobile Application Developer</h2>
 <h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Follow+to+get+new+updates+👌❤️‍🔥✨" /> </h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=004575&style=flat" alt="a-hemeda" height="65" width="420" />
 <br>
