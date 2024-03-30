@@ -3,12 +3,12 @@
 <h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Follow+to+get+new+updates+👌❤️‍🔥✨" /> </h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=004575&style=flat" alt="a-hemeda" height="65" width="420" />
 <br>
-	           <img src="https://img.shields.io/github/followers/a-hemeda?label=Followers&color=800000&style=flat" alt="a-hemeda" height="55" width="220" />
+	<img src="https://img.shields.io/github/followers/a-hemeda?label=Followers&color=800000&style=flat" alt="a-hemeda" height="55" width="220" />
 </p>
 <br>
 
 <br>
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br>
 
 <h1 align="center">📩 My LinkedIn<h1>
