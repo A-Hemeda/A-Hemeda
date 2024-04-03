@@ -3,24 +3,25 @@
 <h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Follow+to+get+new+updates+👌❤✨" /> </h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=007000&style=flat" alt="a-hemeda" height="65" width="420" />
 <br>
+
 <img src="https://img.shields.io/github/followers/a-hemeda?label=Followers&color=700000&style=flat" alt="a-hemeda" height="55" width="220" />
 </p>
 
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br>
-<div align="center">
+<div align="left">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=F72A99&center=true&vCenter=true&width=435&lines=Check+My+LinkedIn;Check+My+LinkedIn)](https://linkedin.com/in/a-hemeda)
 
 </div>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/a-hemeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="100" width="100" /></a>
 </p>
 
-<img align="left" alt="Responsive" width="400" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
+<img align="right" alt="Responsive" width="350" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
 
-<h2 align="center">🛠 Languages & Tools:<h2>
-<p align="center">
+<h2 align="left">🛠 Languages & Tools:<h2>
+<p align="left">
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a>
