@@ -2,21 +2,20 @@
 <h2 align="center">Software Engineer | Android Developer </h2>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=F72A99&center=true&vCenter=true&width=435&lines=Follow+to+get+new+updates+💖👌;Follow+to+get+new+updates+💖👌)](https://linkedin.com/in/a-hemeda)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=24&pause=1000&color=C00000&center=true&vCenter=true&width=435&lines=Follow+to+get+new+updates+💖👌;Follow+to+get+new+updates+💖👌)](https://linkedin.com/in/a-hemeda)
 
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=007000&style=flat" alt="a-hemeda" height="65" width="420" />
 <br>
-
 <img src="https://img.shields.io/github/followers/a-hemeda?label=Followers&color=700000&style=flat" alt="a-hemeda" height="55" width="220" />
 </p>
 
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br>
 
-<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Check+my+LinkedIn+❤✨" /> </h2>
+<h2 align="left"> <img src="https://readme-typing-svg.herokuapp.com?lines=Check+my+LinkedIn+❤✨" /> </h2>
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/a-hemeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="100" width="100" /></a>
 </p>
 
