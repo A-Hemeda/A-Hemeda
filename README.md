@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hemeda 👑</h1>
-<h2 align="center">Software Engineer | Android Developer 🇵🇸</h2>
+<h2 align="center">Software Engineer | Android Developer </h2>
 <h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Follow+to+get+new+updates+👌❤✨" /> </h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=004575&style=flat" alt="a-hemeda" height="65" width="420" />
 <br>
@@ -8,12 +8,12 @@
 <br>
 
 <br>
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br>
 
 <h1 align="center">📩 My LinkedIn<h1>
 <p align="center">
-<a href="https://linkedin.com/in/a-hemeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="100" width="120" /></a>
+<a href="https://linkedin.com/in/a-hemeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="80" width="80" /></a>
 </p>
  
 <br>
