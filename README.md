@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=24&pause=1000&color=C00000&center=true&vCenter=true&width=435&lines=Follow+to+get+new+updates+💖👌;Follow+to+get+new+updates+💖👌)](https://linkedin.com/in/a-hemeda)
 
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=007000&style=flat" alt="a-hemeda" height="70" width="410" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=007000&style=flat" alt="a-hemeda" height="70" width="411" />
 <br>
 <img src="https://img.shields.io/github/followers/a-hemeda?label=Followers&color=700000&style=flat" alt="a-hemeda" height="60" width="220" />
 </p>
