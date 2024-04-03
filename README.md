@@ -7,6 +7,7 @@
 </p>
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=F72A99&center=true&vCenter=true&width=435&lines=Check+My+LinkedIn;Check+My+LinkedIn)](https://github.com/a-hemeda/)
@@ -15,7 +16,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/a-hemeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="125" width="125" /></a>
 </p>
-<br>
 
 <img align="left" alt="Responsive" width="400" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
 <br>
