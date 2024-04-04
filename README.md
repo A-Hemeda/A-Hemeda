@@ -2,7 +2,7 @@
 <h2 align="center">Software Engineer | Android Developer </h2>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=1000&color=C00000&center=true&vCenter=true&width=420&lines=Follow+to+get+new+updates+💙👌;Follow+to+get+new+updates+💙👌)](https://linkedin.com/in/a-hemeda)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=550&size=22&pause=1000&color=C00000&center=true&vCenter=true&width=420&lines=Follow+to+get+new+updates+💙👌;)](https://www.google.com.eg/search?q=ahmed+hemeda)
 
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=007000&style=flat" alt="a-hemeda" height="70" width="410" />
@@ -16,7 +16,7 @@
 </p>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&pause=1000&color=00A000&center=true&vCenter=true&width=450&lines=👉+Me+on+Google+💎;👉+Me+on+Google+💎)](https://www.google.com.eg/search?q=ahmed+hemeda)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&pause=1000&color=00A000&center=true&vCenter=true&width=450&lines=👉+Me+on+Google+💎;)](https://www.google.com.eg/search?q=ahmed+hemeda)
 
 </div>
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
