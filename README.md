@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/github/followers/a-hemeda?label=Followers&color=700000&style=flat" alt="a-hemeda" height="60" width="220" />
 </p>
 
-<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=View+my+new+posts+on+LinkedIn+💖✨" /> </h2>
+<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=View+my+new+posts+on+LinkedIn+❤️✨" /> </h2>
 <p align="center">
 <a href="https://linkedin.com/in/a-hemeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="100" width="100" /></a>
 </p>
