@@ -14,7 +14,11 @@
 <p align="center">
 <a href="https://linkedin.com/in/a-hemeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="100" width="100" /></a>
 </p>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=24&pause=1000&color=00A000&center=true&vCenter=true&width=435&lines=Google💎;Google💎)](https://www.google.com.eg/search?q=ahmed+hemeda)
+
+</div>
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <img align="right" alt="Responsive" width="350" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
 <br>
