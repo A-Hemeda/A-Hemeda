@@ -2,7 +2,7 @@
 <h2 align="center">Software Engineer | Android Developer </h2>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=1000&color=C00000&center=true&vCenter=true&width=420&lines=Follow+to+get+new+updates+❤👌;Follow+to+get+new+updates+❤👌)](https://linkedin.com/in/a-hemeda)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=1000&color=C00000&center=true&vCenter=true&width=420&lines=Follow+to+get+new+updates+💙👌;Follow+to+get+new+updates+💙👌)](https://linkedin.com/in/a-hemeda)
 
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=007000&style=flat" alt="a-hemeda" height="70" width="410" />
