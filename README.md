@@ -2,7 +2,7 @@
 <h2 align="center">Software Engineer | Android Developer </h2>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=1000&color=C00000&center=true&vCenter=true&width=420&lines=Follow+to+get+new+updates+💖👌;Follow+to+get+new+updates+💖👌)](https://linkedin.com/in/a-hemeda)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=1000&color=C00000&center=true&vCenter=true&width=420&lines=Follow+to+get+new+updates+❤👌;Follow+to+get+new+updates+❤👌)](https://linkedin.com/in/a-hemeda)
 
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=007000&style=flat" alt="a-hemeda" height="70" width="410" />
@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/github/followers/a-hemeda?label=Followers&color=700000&style=flat" alt="a-hemeda" height="60" width="220" />
 </p>
 
-<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=View+my+new+posts+on+LinkedIn+❤✨" /> </h2>
+<h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=View+my+new+posts+on+LinkedIn+💖✨" /> </h2>
 <p align="center">
 <a href="https://linkedin.com/in/a-hemeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="100" width="100" /></a>
 </p>
