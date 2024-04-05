@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hemeda 👑</h1>
-<h2 align="center">Software Engineer | Android Developer </h2>
+<h2 align="center">Software Engineer </h2>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=550&size=22&pause=1000&color=C00000&center=true&vCenter=true&width=420&lines=Follow+to+get+new+updates+💙👌;)](https://www.google.com.eg/search?q=ahmed+hemeda)
