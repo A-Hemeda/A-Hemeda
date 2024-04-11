@@ -7,7 +7,7 @@
 </div>
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=007000&style=flat" alt="a-hemeda" height="50" width="300" />
- <img src="https://img.shields.io/github/followers/a-hemeda?label=Followers&color=700000&style=flat" alt="a-hemeda" height="50" width="225" /> </p>
+ <img src="https://img.shields.io/github/followers/a-hemeda?label=Followers&color=700000&style=flat" alt="a-hemeda" height="50" width="200" /> </p>
 
 <h2 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?lines=View+my+LinkedIn+posts+(21K)+❤️✨" /> </h2>
