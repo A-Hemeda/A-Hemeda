@@ -15,11 +15,11 @@
  <a target="_blank" href="https://www.linkedin.com/in/a-hemeda"><img src="https://img.shields.io/badge/-LinkedIn-0060A0?style=for-the-badge&logo=Linkedin&logoColor=white" height="50" ></img></a>
  <a target="_blank" href="mailto:7hemeda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-800000?style=for-the-badge&logo=Gmail&logoColor=white" height="50" ></img></a> </p>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="200" />
- <img align="right" alt="Responsive"src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" height="250" />
+ <img align="center" alt="Responsive"src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" height="250" />
 <br>
 
-<h2 align="left">🛠 Languages & Tools:<h2>
-<p align="left">
+<h2 align="center">🛠 Languages & Tools:<h2>
+<p align="center">
  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a>
  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="50" height="50"/> </a>
  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/> </a>
