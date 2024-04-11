@@ -11,7 +11,7 @@
 <h2 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?lines=View+my+LinkedIn+posts+(21K)+❤️✨" /> </h2>
 <p align="center">
- <a href="https://linkedin.com/in/a-hemeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="75" width="75" /></a>
+ <a target="_blank" href="https://www.linkedin.com/in/a-hemeda"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" height="50></img></a>
 </p>
 <div align="center">
 
