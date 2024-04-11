@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Hemeda 👑</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="33">, I'm Ahmed Hemeda 👑</h1>
 <h2 align="center">Software Engineer 👨🏻‍💻 | .NET Developer</h2>
 <div align="center">
 
