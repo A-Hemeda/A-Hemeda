@@ -6,8 +6,9 @@
 
 </div>
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=700000&style=flat" alt="a-hemeda" height="50" />
- <a href="https://github.com/a-hemeda?tab=followers"> <img alt="GitHub Followers" src="https://img.shields.io/github/followers/a-hemeda?color=red&logo=github" height="50" > </a>
+ <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=700000&style=flat" height="50" />
+ <a href="https://github.com/a-hemeda"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Da-hemeda&longCache=true" height="50" /></a>
+ <a href="https://github.com/a-hemeda?tab=stars"> <img Followers" src="https://img.shields.io/github/stars/a-hemeda?color=red&logo=github" height="50" > </a>
 <h2 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?lines=View+my+LinkedIn+posts+(21K)+❤️✨" /> </h2>
 <p align="center">
