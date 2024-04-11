@@ -6,7 +6,7 @@
 
 </div>
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile%20views&color=0060A0&style=flat" height="50" />
+ <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Visitors&color=0060A0&style=flat" height="50" />
  <a href="https://github.com/a-hemeda"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&labelColor=252525&color=800000&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Da-hemeda&longCache=true" height="50" /></a>
  <a href="https://github.com/a-hemeda?tab=stars"> <img Followers" src="https://img.shields.io/github/stars/a-hemeda?color=red&logo=github" height="50" > </a>
 <h2 align="center">
