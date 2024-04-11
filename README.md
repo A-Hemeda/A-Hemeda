@@ -13,11 +13,6 @@
 <p align="center">
  <a target="_blank" href="https://www.linkedin.com/in/a-hemeda"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" height="50></img></a>
 </p>
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=20&pause=1000&color=00A000&center=true&vCenter=true&width=450&lines=👉+Me+on+Google+💎;)](https://www.google.com.eg/search?q=ahmed+hemeda)
-
-</div>
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <img align="right" alt="Responsive" width="350" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
 <br>
