@@ -15,7 +15,7 @@
  <a target="_blank" href="https://www.linkedin.com/in/a-hemeda"><img src="https://img.shields.io/badge/-LinkedIn-0060A0?style=for-the-badge&logo=Linkedin&logoColor=white" height="50" ></img></a>
  <a target="_blank" href="mailto:7hemeda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-800000?style=for-the-badge&logo=Gmail&logoColor=white" height="50" ></img></a> </p>
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="200" />
- <img align="center" alt="Responsive"src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" height="250" />
+ <img align="center" alt="Responsive"src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" height="200" />
 <br>
 
 <h2 align="center">🛠 Languages & Tools:<h2>
