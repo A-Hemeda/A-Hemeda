@@ -17,7 +17,7 @@
  <img align="left" alt="Responsive"src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" height="200" />
 <br>
 
-<h2 align="center">🛠 Languages & Tools:<h2>
+<h2 align="center">🛠 Languages<h2>
 <p align="center">
  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a>
  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="50" height="50"/> </a>
@@ -28,6 +28,6 @@
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
  <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; width="50" height="50""/>	
 
-<h2 align="center">🏆 GitHub Profile Trophies:<h2>
+<h2 align="center">🏆 Trophies<h2>
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda" /></a> </p>
