@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">, I'm Ahmed Hemeda 👑</h1>
 
-<h2 align="center">Software Engineer | Mobile App Developer</h2>
+<h2 align="center">Software Engineer 👨🏻‍💻 | .NET Developer</h2>
 
 <div align="center">
 
