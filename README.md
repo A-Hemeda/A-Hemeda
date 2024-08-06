@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=1000&color=C00000&center=true&vCenter=true&width=420&lines=Follow+to+get+new+updates+💙✨;)](https://www.google.com.eg/search?q=ahmed+hemeda)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=22&pause=1000&color=C00000&center=true&vCenter=true&width=420&lines=Follow+to+get+new+updates+💙👌;)](https://www.google.com.eg/search?q=ahmed+hemeda)
 
 </div>
 
@@ -15,7 +15,7 @@
   <a href="https://github.com/a-hemeda?tab=stars"> <img Followers" src="https://img.shields.io/github/stars/a-hemeda?color=red&logo=github" height="40" > </a> </p>
  
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=More+than+24K+LinkedIn+Followers+❤️" /> </h2>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Check+my+posts+on+LinkedIn+❤️✨" /> </h2>
  
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/a-hemeda"><img src="https://img.shields.io/badge/-LinkedIn-0060A0?style=for-the-badge&logo=Linkedin&logoColor=white" height="50" > </img> </a>
