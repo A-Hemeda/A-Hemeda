@@ -30,9 +30,9 @@
   <img width="2" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50"/>
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  <img width="3" />
   <img src="https://skillicons.dev/icons?i=firebase" height="50"/>
+  <img width="3" />
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
 <br/>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda" /></a> </p>
