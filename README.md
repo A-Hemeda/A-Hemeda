@@ -19,9 +19,9 @@
 <br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="50"/>
-  <img width="2" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="50"/>
-  <img width="2" />
+  <img width="3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50"/>
   <img width="2" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="50"/>
@@ -29,9 +29,9 @@
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="50"/>
   <img width="2" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50"/>
-  <img width="2" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  <img width="2" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=firebase" height="50"/>
 <br/>
 <p align="center">
