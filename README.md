@@ -2,7 +2,7 @@
 <h2 align="center">Software Engineer 👨🏻‍💻 | .NET Developer</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile+Views&color=0060A0&style=flat" height="30"/>
   <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&labelColor=202525&color=800000&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Da-hemeda&longCache=true" height="30"/> </a>
-  <img Followers" src="https://img.shields.io/github/stars/a-hemeda?color=red&logo=github" height="30" > </a> </p>
+  <img Stars" src="https://img.shields.io/github/stars/a-hemeda?color=red&logo=github" height="30" > </a> </p>
 <p align="center"> <a href="https://linkedin.com/in/a-hemeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="70" /></a> </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40"/> <img width="3" />
