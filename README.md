@@ -5,9 +5,9 @@
   <a target="_blank" href="mailto:7hemeda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-800000?style=for-the-badge&logo=Gmail&logoColor=white" height="30" > </img> </a> </p>
 <br/>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Viewers&color=0060A0&style=flat" height="30"/>
-  <a href="https://github.com/a-hemeda"> <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&labelColor=202525&color=800000&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Da-hemeda&longCache=true" height="30"/> </a>
-  <a href="https://github.com/a-hemeda?tab=stars"> <img Followers" src="https://img.shields.io/github/stars/a-hemeda?color=red&logo=github" height="30" > </a> </p>
+  <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Viewers&color=0060A0&style=flat" height="40"/>
+  <a href="https://github.com/a-hemeda"> <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&labelColor=202525&color=800000&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Da-hemeda&longCache=true" height="40"/> </a>
+  <a href="https://github.com/a-hemeda?tab=stars"> <img Followers" src="https://img.shields.io/github/stars/a-hemeda?color=red&logo=github" height="40" > </a> </p>
 <br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40"/>
