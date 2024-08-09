@@ -1,15 +1,12 @@
-<h1 align="center">👋🏼 Hi, I'm Ahmed Hemeda 👑</h1>
-<h2 align="center">Software Engineer 👨🏻‍💻 | .NET Developer</h2>
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">👋🏼 Hi, I'm Ahmed Hemeda 👑</h1>
+<h2 align="left">Software Engineer 👨🏻‍💻 | .NET Developer</h2>
 <p align="left">
-<a href="https://linkedin.com/in/a-hemeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="50" /></a> </p>
-
-<br/>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile+Views&color=0060A0&style=flat" height="30"/>
   <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&labelColor=202525&color=800000&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Da-hemeda&longCache=true" height="30"/> </a>
   <img Followers" src="https://img.shields.io/github/stars/a-hemeda?color=red&logo=github" height="30" > </a> </p>
-<br/>
+<h3 align="left">My LinkedIn:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/a-hemeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="50" /></a> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="40"/>
@@ -27,6 +24,6 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=github" height="40"/> </p>
-<br/>
+<h3 align="left">Trophies:</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda" /></a> </p>
