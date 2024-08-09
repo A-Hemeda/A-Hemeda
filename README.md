@@ -2,7 +2,7 @@
 <h2 align="center">Software Engineer 👨🏻‍💻 | .NET Developer</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/a-hemeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="30" width="40" /></a> </p>
+<a href="https://linkedin.com/in/a-hemeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-hemeda" height="50" /></a> </p>
 
 <br/>
 <p align="center">
@@ -11,7 +11,7 @@
   <img Followers" src="https://img.shields.io/github/stars/a-hemeda?color=red&logo=github" height="30" > </a> </p>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="40"/>
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40"/>
