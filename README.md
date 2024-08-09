@@ -30,7 +30,7 @@
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
   <img width="3" />
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/> </p>
 <br/>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda" /></a> </p>
