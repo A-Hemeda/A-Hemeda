@@ -1,5 +1,5 @@
-<h1 align="center">Hi,👋🏼 I'm Ahmed Hemeda 👑</h1>
-<h2 align="center">Software Engineer 👨🏻‍💻 | .NET Developer</h2>
+<h1 align="center">Hi, I'm Ahmed Hemeda 👑</h1>
+<h2 align="center">Software Engineer | .NET Developer</h2> <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile+Views&color=800000&style=flat" height="40"/> </p>
 <h3 align="center">Languages, Frameworks and Tools: 🛠️</h3>
 <p align="center"> <img src="https://skillicons.dev/icons?i=cs" height="40"/> <img width="1" />
