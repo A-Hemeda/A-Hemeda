@@ -11,5 +11,5 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40"/> <img width="1" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40"/> <img width="1" />
   <img src="https://skillicons.dev/icons?i=github" height="40"/> </p>
-<h3 align="center">GitHub Trophies: 🏆</h3>
+<h3 align="center">GitHub Trophies (Followers, Commits, Stars, Etc..): 🏆</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda" /></a> </p>
