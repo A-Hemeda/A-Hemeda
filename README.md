@@ -2,7 +2,7 @@
 <h1 align="center">I'm Ahmed Hemeda 👑</h1>
 <h2 align="center">Software Engineer 👨🏻‍💻 | .NET Developer</h2> <br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/a-hemeda" target="_blank"><img src="https://img.shields.io/badge/-27K+ Followers-005080?style=flat-square&logo=Linkedin&logoColor=white" height="50"></a> </p>
+  <a href="https://www.linkedin.com/in/a-hemeda" target="_blank"><img src="https://img.shields.io/badge/-26K+ Followers-005080?style=flat-square&logo=Linkedin&logoColor=white" height="50"></a> </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile+Views&color=800000&style=flat" height="45"/> </p>
 <h3 align="left"> 🛠️ Languages and Tools: </h3>
