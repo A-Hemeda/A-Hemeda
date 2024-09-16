@@ -10,7 +10,8 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50"/> <img width="1" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="50"/> <img width="1" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="50"/> <img width="1" />
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio.png" height="50"/> <br>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="50"/> <img width="1" />
+  <img src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" height="50"/> <img width="1" />
+  <img src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" height="50"/> <br>
 <h3 align="left"> 🏆 My Trophies: </h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda" /></a> </p>
