@@ -8,7 +8,7 @@
 <h4 align="left">💬 About Me:</h4>
 <p align="left">As a software engineer, I have developed and delivered multiple projects for various clients and industries. 🔆</p>
 <p align="left">I learned and applied research, teamwork, and problem-solving skills to various individual and group projects. 👌</p>
-<p align="left">I'm motivated by creativity and innovation, and I aspire to pursue further education and career opportunities in the field of software engineering. ✨</p>
+<p align="left">I'm motivated by creativity, and I pursue further education and career opportunities in the field of software engineering. ✨</p>
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.icons8.com/?id=mhwmyz1eu7T5&format=png&color=000000"/>
