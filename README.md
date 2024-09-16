@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/a-hemeda" target="_blank"><img src="https://img.shields.io/badge/-26K+ Followers-005080?style=flat-square&logo=Linkedin&logoColor=white" height="50"></a> </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile+Views&color=800000&style=flat" height="45"/> </p>
-<h4 align="left">💬 About Me:</h4>
+<h4 align="left">💎 About Me:</h4>
 <p align="left">As a software engineer, I have developed and delivered multiple projects for various clients and industries. 🔆</p>
 <p align="left">I learned and applied research, teamwork, and problem-solving skills to various individual and group projects. 👌</p>
 <p align="left">I'm motivated by creativity, and I pursue further education and career opportunities in software engineering field. ✨</p>
