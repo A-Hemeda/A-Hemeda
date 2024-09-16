@@ -15,4 +15,5 @@
   <img src="https://img.icons8.com/?id=ezj3zaVtImPg&format=png&color=000000"/>
   <img src="https://img.icons8.com/?id=AZOZNnY73haj&format=png&color=000000"/> <br>
 <h3 align="left"> 🏆 GitHub Trophies: </h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda" /></a> </p>
