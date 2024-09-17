@@ -9,6 +9,6 @@
   <p align="left">I learned and applied research, teamwork, and problem-solving skills to various individual and group projects. 👌</p>
   <p align="left">I'm motivated by creativity, and I pursue further education and career opportunities in software engineering field. ✨</p>
 <h3 align="left">🛠️ Languages and Tools:</h3>
-  <p align="left"> <div align="left"> <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,js,angular,postman,git,github,visualstudio,vscode,linux&perline=13"/> </div> </p>
+  <p align="center"> <div align="left"> <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,js,angular,postman,git,github,visualstudio,vscode,linux&perline=13"/> </div> </p>
 <h3 align="left">🏆 GitHub Trophies:</h3>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda"/></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda"/></a> </p>
