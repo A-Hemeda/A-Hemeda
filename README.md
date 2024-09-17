@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25"/>, I'm Ahmed Hemeda</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="20"/>, I'm Ahmed Hemeda</h1>
 <h2 align="center">Software Engineer | .NET Developer</h2> <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/a-hemeda" target="_blank"><img src="https://img.shields.io/badge/-26K+ Followers-005080?style=flat-square&logo=Linkedin&logoColor=white" height="50"></a> </p>
