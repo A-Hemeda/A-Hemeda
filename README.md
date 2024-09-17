@@ -2,7 +2,7 @@
 <h2 align="center">Software Engineer 👨🏻‍💻 | .NET Developer</h2> <br>
   <p align="center"> <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Check%20my%20LinkedIn%20posts%20🔆;Follow%20to%20get%20updates%20👌;Watch%20my%20Repositories%20✨&font=Fira%20Code&center=true&height=50&color=00A000&vCenter=true&size=25"></a> </p>
-  <p align="center"> <a href="https://www.linkedin.com/in/a-hemeda" target="_blank"><img src="https://img.shields.io/badge/-26K+ Followers-005080?style=flat-square&logo=Linkedin&logoColor=white" height="50"></a> </p>
+  <p align="center"> <a href="https://www.linkedin.com/in/a-hemeda" target="_blank"><img src="https://img.shields.io/badge/-27K+ Followers-005080?style=flat-square&logo=Linkedin&logoColor=white" height="50"></a> </p>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile+Views&color=800000&style=flat" height="45"/> </p>
 <h3 align="left">💎 About Me:</h3>
   <p align="left">As a software engineer, I have developed and delivered multiple projects for various clients and industries. 🔆</p>
