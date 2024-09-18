@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30"/> Hi, I'm Ahmed Hemeda 👑</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25"/> Hi, I'm Ahmed Hemeda 👑</h1>
 <h2 align="center">Software Engineer 👨🏻‍💻 | .NET Developer</h2> <br>
   <p align="center"> <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=See%20my%20LinkedIn%20posts%20🔆;Follow%20to%20get%20updates%20👌;Watch%20my%20Repositories%20✨&font=Bold%20Code&center=true&height=50&color=00A000&vCenter=true&size=20"></a> </p>
