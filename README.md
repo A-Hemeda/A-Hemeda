@@ -9,6 +9,6 @@
   <p align="left">I learned and applied research, teamwork, and problem-solving skills to various individual and group projects. 👌</p>
   <p align="left">I'm motivated by creativity, and I pursue further education and career opportunities in software engineering field. ✨</p>
 <h3 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height ="20"> Languages and Tools:</h3>
-  <p align="center"> <div align="left"> <img src="https://skillicons.dev/icons?i=cs,dotnet,postman,html,css,js,angular,jquery,mysql,git,github,visualstudio,vscode&perline=13"/> </div> </p>
+  <p align="center"> <div align="left"> <img src="https://skillicons.dev/icons?i=cs,dotnet,postman,html,css,js,angular,mysql,git,github,visualstudio,vscode&perline=13"/> </div> </p>
 <h3 align="left"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRmZWEyc254NmJsM3N5cm0zaHBlMmxxYXh3em84bGs5ZnJ6N2F5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MXIpG5H8BCKYqI1lZF/giphy.gif" height ="20"> GitHub Trophies:</h3>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda"/></a> </p>
