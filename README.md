@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBmamI1cXVtdmx5ajduNzR1cmlrOWV2MGc1MWh4ZXYzcWM0N3huciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif" height ="30"> Hi, I'm Ahmed Hemeda</h1>
+<h1 align="center">Hi, I'm Ahmed Hemeda 👋</h1>
 <h2 align="center">Software Engineer | .NET Developer</h2> <br>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile+Views&color=800000&style=flat" height="45"/> </p>
   <p align="center"> <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
