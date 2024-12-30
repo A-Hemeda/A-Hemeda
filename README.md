@@ -13,5 +13,5 @@
 <h3 align="left">🛠️ Languages and Tools:</h3>
   <p align="center"> <div align="left"> <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,js,angular,git,postman,stackoverflow,visualstudio,vscode&perline=12"/> </div> </p>
 <h3 align="left">🏆 GitHub Trophies:</h3>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda"/></a> </p>
+  <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda"/></a> </p>
   <p align="center"> <img src="https://raw.githubusercontent.com/batooldshilleh/batooldshilleh/output/github-contribution-grid-snake.svg"></a> </p>
