@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ahmed Hemeda 👋</h1>
 <h2 align="center">Software Engineer | .NET Developer</h2> <br>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&label=Profile+Views&color=800000&style=flat" height="45"/> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=800000&style=flat" height="45"/> </p>
   <p align="center"> <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20LinkedIn%20Profile%20🔆;Check%20Useful%20Materials%20👌;Follow%20for%20New%20Updates%20✨&font=Bold%20Code&center=true&height=30&color=30D050&pause=1750&vCenter=true&size=20"></a> </p>
   <p align="center"> <a href="https://www.linkedin.com/in/a-hemeda"> <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" height="60"/></a>
