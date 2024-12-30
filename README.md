@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Ahmed Hemeda 👋</h1>
+<h1 align="center">Hello World!, I'm Ahmed Hemeda</h1>
 <h2 align="center">Software Engineer | .NET Developer</h2> <br>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=800000" height="45"/> </p>
   <p align="center"> <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20LinkedIn%20Profile%20🔆;Check%20Useful%20Materials%20👌;Follow%20for%20New%20Updates%20✨&font=Bold%20Code&center=true&height=30&color=30D050&pause=1750&vCenter=true&size=20"> </a> </p>
-  <p align="center"> <a href="https://www.linkedin.com/in/a-hemeda"> <img src="https://readme-components.vercel.app/api?component=logo&fill=126BC4&logo=LinkedIn" height="60"/> </a>
-    <a href="mailto:7hemeda@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail&perline=1" height="60"/> </a> </p>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Check%20my%20LinkedIn%20Profile;I%20share%20Useful%20Knowledge;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=30&color=30D050&pause=1750&vCenter=true&size=20"> </a> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=800000" height="30"/> </p>
+  <p align="center"> <a href="https://www.linkedin.com/in/a-hemeda"> <img src="https://readme-components.vercel.app/api?component=logo&fill=126BC4&logo=LinkedIn" height="50"/> </a> </p>
+  <p align="center"> <a href="mailto:7hemeda@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail&perline=1" height="50"/> </a> </p>
 <h3 align="left">💎 About Me:</h3>
   <p align="left">As a software engineer, I have developed and delivered multiple projects for various clients and industries. 🔆</p>
   <p align="left">I learned and applied research, teamwork, and problem-solving skills to various individual and group projects. 👌</p>
