@@ -1,5 +1,5 @@
 <h1 align="center">Hello World!, I'm Ahmed Hemeda</h1>
-<h2 align="center">Software Engineer | .NET Developer</h2>
+<h2 align="center">Software Engineer | .NET Developer</h2> </br>
   <p align="center"> <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=30&color=30D050&pause=1750&vCenter=true&size=17"> </a> </p>
   <p align="center"> <a href="https://www.linkedin.com/in/a-hemeda"> <img src="https://img.shields.io/badge/LinkedIn-0070C0?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/> </a>
