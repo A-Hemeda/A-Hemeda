@@ -12,6 +12,6 @@
   <p align="left">I'm motivated by creativity, and I pursue further education and career opportunities in software engineering field. ✨</p>
 <h3 align="left">🛠️ Languages and Tools:</h3>
   <p align="left"> <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,js,angular,git,postman,stackoverflow,visualstudio,vscode&perline=12"/> </p>
-<h3 align="left">🏆 GitHub Trophies:</h3>
+<h3 align="left">🏆 My GitHub Trophies:</h3>
   <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda"/> </a> </p>
   <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> </a> </p>
