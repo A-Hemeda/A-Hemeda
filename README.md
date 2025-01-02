@@ -2,10 +2,9 @@
 <h2 align="center">Software Engineer | .NET Developer</h2> <br>
   <p align="center"> <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=30&color=30D050&pause=1750&vCenter=true&size=20"> </a> </p> <br>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=800000" height="30"/>
-<h3 align="left">📩 Contact:</h3>
-  <p align="left"> <a href="https://www.linkedin.com/in/a-hemeda"> <img src="https://img.shields.io/badge/LinkedIn-0077C0?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/> </a>
-  <a href="mailto:7hemeda@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/> </a> </p>
+  <p align="center"> <a href="https://www.linkedin.com/in/a-hemeda"> <img src="https://img.shields.io/badge/LinkedIn-0077C0?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/> </a>
+    <a href="mailto:7hemeda@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/> </a> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=800000" height="40"/>
 <h3 align="left">💎 About Me:</h3>
   <p align="left">As a software engineer, I have developed and delivered multiple projects for various clients and industries. 🔆</p>
   <p align="left">I learned and applied research, teamwork, and problem-solving skills to various individual and group projects. 👌</p>
