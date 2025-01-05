@@ -10,7 +10,7 @@
   <p align="left">I learned and applied research, teamwork, and problem-solving skills to various individual and group projects. 👌</p>
   <p align="left">I'm motivated by creativity, and I pursue further education and career opportunities in software engineering field. ✨</p>
 <h3 align="left">🛠️ Languages & Tools:</h3>
-  <p align="left"> <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,bootstrap,js,angular,postman,git,docker,azure,stackoverflow,linux&perline=14"/> </p>
+  <p align="left"> <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,bootstrap,js,angular,postman,git,docker,azure,stackoverflow&perline=13"/> </p>
 <h3 align="left">🏆 My GitHub Trophies:</h3>
   <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=algolia" alt="a-hemeda"/> </a> </p>
   <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> </a> </p>
