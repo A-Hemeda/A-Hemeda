@@ -15,7 +15,7 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/a-hemeda">
-      <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="100"/>
+      <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="70"/>
     </a>
   </p>
 
