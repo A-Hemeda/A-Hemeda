@@ -12,7 +12,9 @@
     <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="37"/>
   </p>
 
-  <p align="center">
+<h3 align="left">📫 Feel free to reach me out:</h3>
+
+  <p align="left">
     <a href="https://www.linkedin.com/in/a-hemeda">
       <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50"/>
     <a href="mailto:7hemeda@gmail.com">
@@ -29,22 +31,22 @@
   <p align="left">I'm motivated by creativity, and I pursue further education and career opportunities in software engineering field. ✨
   </p>
 
-<h3 align="center">🛠️ Languages & Tools:</h3>
+<h3 align="left">🛠️ Languages & Tools:</h3>
 
-  <p align="center">
+  <p align="left">
     <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,bootstrap,js,angular,postman,git,docker,azure,stackoverflow&perline=13"/>
   </p>
 
-<h3 align="center">🏆 GitHub Trophies:</h3>
+<h3 align="left">🏆 GitHub Trophies:</h3>
 
-  <p align="center">
+  <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=radical&row=1&column=7" alt="a-hemeda"/>
   </p>
 
-  <p align="center">
-    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=a-hemeda&theme=dark&show_icons=true&count_private=true"/>
+  <p align="left">
+    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=a-hemeda&theme=dark&show_icons=true&count_private=true" height="150"/>
   </p>
 
-  <p align="center">
+  <p align="left">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </p>
