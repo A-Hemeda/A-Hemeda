@@ -31,7 +31,7 @@
 <h3 align="left">🛠️ Languages & Tools:</h3>
 
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,bootstrap,js,angular,postman,git,docker,azure,stackoverflow,linux&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,bootstrap,js,angular,git,postman,docker,azure,stackoverflow,linux&perline=14"/>
   </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
