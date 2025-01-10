@@ -41,7 +41,7 @@
   </p>
 
   <p align="left">
-    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=a-hemeda&theme=dark&show_icons=true&count_private=true" height="150"/>
+    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=a-hemeda&theme=dark&show_icons=true&count_private=true" height="100"/>
   </p>
 
   <p align="left">
