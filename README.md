@@ -20,7 +20,6 @@
   </p>
 
 <h3 align="left">💎 About Me:</h3>
-
   <p align="left">As a software engineer, I have developed and delivered multiple projects for various clients and industries. 🔆
   </p>
   <p align="left">I learned and applied research, teamwork, and problem-solving skills to various individual and group projects. 👌
@@ -29,19 +28,13 @@
   </p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
-
   <p align="left">
     <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,bootstrap,js,angular,git,postman,docker,azure,stackoverflow,linux&perline=14"/>
   </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
-
   <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=radical&row=1&column=7" alt="a-hemeda"/>
-  </p>
-
-  <p align="left">
-    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=a-hemeda&theme=dark&show_icons=true&count_private=true" height="125"/>
   </p>
 
   <p align="left">
