@@ -13,13 +13,9 @@
     <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="37"/>
   </p>
 
-<h3 align="left">📫 Feel free to reach me out:</h3>
-
-  <p align="left">
+  <p align="center">
     <a href="https://www.linkedin.com/in/a-hemeda">
-      <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50"/>
-    <a href="mailto:7hemeda@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail&perline=1"/>
+      <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="100"/>
     </a>
   </p>
 
