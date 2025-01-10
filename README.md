@@ -10,7 +10,7 @@
 
 <!--Profile Views-->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="37"/>
+    <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="30"/>
   </p>
 
   <p align="center">
