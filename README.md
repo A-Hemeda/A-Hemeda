@@ -34,7 +34,12 @@
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
   <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7" alt="a-hemeda"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
+  </p>
+  
+  <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&locale=en&layout=compact&card_width=360&langs_count=4&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&hide=contribs,prs&card_width=1&cache_seconds=86400&theme=github_dark" height ="140"/>
   </p>
 
   <p align="left">
