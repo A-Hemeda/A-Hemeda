@@ -4,26 +4,21 @@
 
   <p align="center">
     <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=55&color=30D050&pause=1750&vCenter=true&size=20">
-    </a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=55&color=30D050&pause=1750&vCenter=true&size=20">
   </p>
 
-<!--Profile Views-->
-  <p align="center">
+  <p align="center"> <!-- Profile Views -->
     <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="30"/>
   </p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/a-hemeda">
-      <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="70"/>
-    </a>
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="70"/>
   </p>
 
 <h3 align="left">💎 About Me:</h3>
   <p align="left">As a software engineer, I have developed and delivered multiple projects for various clients and industries. 🔆
-  </p>
   <p align="left">I learned and applied research, teamwork, and problem-solving skills to various individual and group projects. 👌
-  </p>
   <p align="left">I'm motivated by creativity, and I pursue further education and career opportunities in software engineering field. ✨
   </p>
 
@@ -37,10 +32,10 @@
     <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
   </p>
   
-  <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=5&theme=codeSTACKr"/>
+  <p align="left"><!-- Most Used Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=codeSTACKr"/>
   </p>
 
-  <p align="left">
+  <p align="left"><!-- Snake -->
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </p>
