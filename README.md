@@ -24,7 +24,7 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,sass,bootstrap,js,typescript,angular,git,postman,stackoverflow,linux&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,sass,bootstrap,js,typescript,angular,git,postman,stackoverflow&perline=14"/>
   </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
@@ -34,8 +34,6 @@
   
   <p align="left"><!-- Most Used Languages -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=codeSTACKr"/>
-  </p>
-
-  <p align="left"><!-- Snake -->
+    <a/><!-- Snake -->
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </p>
