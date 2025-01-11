@@ -38,7 +38,7 @@
   </p>
   
   <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&locale=en&layout=compact&card_width=360&langs_count=5&theme=github_dark" height ="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&locale=en&layout=compact&card_width=361&langs_count=5&theme=github_dark" height ="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&hide=contribs,prs&card_width=1&cache_seconds=86400&theme=github_dark"/>
   </p>
 
