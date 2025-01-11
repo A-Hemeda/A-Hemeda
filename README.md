@@ -33,7 +33,7 @@
   </p>
   
   <p align="left"><!-- Most Used Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=codeSTACKr"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=8&theme=codeSTACKr"/>
     <a/><!-- Snake -->
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </p>
