@@ -24,7 +24,7 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,sass,bootstrap,js,typescript,angular,git,postman,stackoverflow&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,sass,bootstrap,js,typescript,angular,git,postman,stackoverflow&perline=13"/>
   </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
