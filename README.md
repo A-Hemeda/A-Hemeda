@@ -16,11 +16,6 @@
       <img src="https://img.shields.io/badge/LinkedIn-0060A0?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
   </p>
 
-<h3 align="left">🏅 A Small Achievement:</h3>
-    <a href="https://www.favikon.com/blog/top-linkedin-influencers-egypt">
-      <img src="https://github.com/user-attachments/assets/0ca1fca4-d429-4f13-8e5f-a8b31c4cc87a" height="70"/>
-    </a>
-
 <h3 align="left">🛠️ Languages and Tools:</h3>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,bootstrap,js,angular,git,postman,stackoverflow&perline=11"/>
