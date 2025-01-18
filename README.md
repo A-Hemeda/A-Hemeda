@@ -10,10 +10,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/a-hemeda">
     <img src="https://img.shields.io/badge/LinkedIn-0060A0?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-  </p>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="30"/>
+    <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="40"/>
   </p>
 
 <h3 align="left">💎 About Me:</h3>
