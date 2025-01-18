@@ -11,26 +11,26 @@
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="25"/>
   </p>
 
-<h3 align="left">📫 Contact With Me:</h3>
+<h4 align="left">📫 Contact With Me:</h4>
     <a href="https://www.linkedin.com/in/a-hemeda">
       <img src="https://img.shields.io/badge/LinkedIn-0060A0?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
-  </p>
+  </a>
 
-<h3 align="left">💎 About Me:</h3>
+<h4 align="left">💎 About Me:</h4>
   <p align="left">As a software engineer, I have developed and delivered multiple projects for various clients and industries, I learned and applied research, teamwork, and problem-solving skills to various individual and group projects, I'm motivated by creativity, and I pursue further education and career opportunities in software engineering field.
   </p>
 
-<h3 align="left">🏅 A Small Achievement:</h3>
+<h4 align="left">🏅 A Small Achievement:</h4>
     <a href="https://www.favikon.com/blog/top-linkedin-influencers-egypt">
       <img src="https://github.com/user-attachments/assets/0ca1fca4-d429-4f13-8e5f-a8b31c4cc87a" height="70"/>
     </a>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h4 align="left">🛠️ Languages and Tools:</h4>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,bootstrap,js,angular,git,postman,stackoverflow&perline=11"/>
   </p>
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
+<h4 align="left">🏆 GitHub Trophies:</h4>
   <p align="left">
       <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
   </p>
