@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0060A0?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
   </p>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,bootstrap,js,angular,git,postman,stackoverflow&perline=11"/>
   </p>
