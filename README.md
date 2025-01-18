@@ -13,7 +13,7 @@
   </p>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="40"/>
+    <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="30"/>
   </p>
 
 <h3 align="left">💎 About Me:</h3>
