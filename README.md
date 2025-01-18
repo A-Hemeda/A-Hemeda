@@ -7,13 +7,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=55&color=30D050&pause=1750&vCenter=true&size=20">
   </p>
 
-  <p align="center"> <!-- LinkedIn -->
+  <p align="center">
     <a href="https://www.linkedin.com/in/a-hemeda">
     <img src="https://img.shields.io/badge/LinkedIn-0060A0?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
     <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="30"/>
   </p>
-
-  
 
 <h3 align="left">💎 About Me:</h3>
   <p align="left">As a software engineer, I have developed and delivered multiple projects for various clients and industries, I learned and applied research, teamwork, and problem-solving skills to various individual and group projects, I'm motivated by creativity, and I pursue further education and career opportunities in software engineering field.
@@ -29,9 +27,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
   </p>
   
-  <p align="left"> <!-- Most Used Languages -->
+  <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=5&theme=codeSTACKr"/>
     <a/> <!-- Snake -->
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </p>
-     <!-- My Email: 7hemeda@gmail.com -->
