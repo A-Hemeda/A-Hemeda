@@ -1,16 +1,16 @@
-<h1 align="center">Hello!, I'm Ahmed Hemeda</h1>
+<h1 align="left">Hello!, I'm Ahmed Hemeda</h1>
 
-<h2 align="center">Software Engineer | .NET Developer</h2>
+<h2 align="left">Software Engineer | .NET Developer</h2>
 
-  <p align="center"> <!-- Google Me -->
+  <p align="left"> <!-- Google Me -->
     <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=55&color=30D050&pause=1750&vCenter=true&size=22">
   </p>
 
-  <p align="center">
+  <p align="left">
     <a href="https://www.linkedin.com/in/a-hemeda">
     <img src="https://img.shields.io/badge/LinkedIn-0060A0?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
-  <p align="center">
+  <p align="left">
     <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="25"/>
   </p>
 
