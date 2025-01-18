@@ -4,13 +4,13 @@
 
   <p align="center"> <!-- Google Me -->
     <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=55&color=30D050&pause=1750&vCenter=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=55&color=30D050&pause=1750&vCenter=true&size=22">
   </p>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/a-hemeda">
-    <img src="https://img.shields.io/badge/LinkedIn-0060A0?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-    <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0060A0?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+    <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="35"/>
   </p>
 
 <h3 align="left">💎 About Me:</h3>
