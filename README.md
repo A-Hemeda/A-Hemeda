@@ -21,6 +21,10 @@
   <p align="left">As a software engineer, I have developed and delivered multiple projects for various clients and industries, I learned and applied research, teamwork, and problem-solving skills to various individual and group projects, I'm motivated by creativity, and I pursue further education and career opportunities in software engineering field.
   </p>
 
+<h3 align="left">🏅 A Small Achievement:</h3>
+    <a href="https://www.favikon.com/blog/top-linkedin-influencers-egypt">
+    <img width="87" alt="65b8ff21c3f15b567c738231_image" src="https://github.com/user-attachments/assets/87c96bca-958c-482f-99d8-9f155d6d85be" />
+
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,bootstrap,js,angular,git,postman,stackoverflow&perline=11"/>
