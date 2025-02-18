@@ -13,12 +13,12 @@
 
   <p align="left"> 
     <a href="https://www.linkedin.com/in/a-hemeda">
-      <img src="https://img.shields.io/badge/LinkedIn-0060A0?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0060A0?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
   </p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,bootstrap,js,angular,git,postman,stackoverflow&perline=11"/>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,bootstrap,js,git,postman,stackoverflow&perline=11"/>
   </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
@@ -27,7 +27,7 @@
   </p>
   
   <p align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=5&theme=codeSTACKr"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=codeSTACKr"/>
     <a/> <!-- Snake -->
       <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </p>
