@@ -8,7 +8,7 @@
   </p>
 
   <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="40"/>
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="35"/>
   </p>
 
   <p align="left"> 
