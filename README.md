@@ -1,19 +1,19 @@
-<h1 align="center">Hello!, I'm Ahmed Hemeda</h1>
+<h1 align="center">👋🏼 Hi!, I'm Ahmed Hemeda</h1>
 
 <h2 align="center">Software Engineer | .NET Developer</h2>
 
   <p align="center"> <!-- Google Me -->
     <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=55&color=30D050&pause=1750&size=20">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&height=55&color=30D050&pause=1750&size=25">
   </p>
 
   <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="30"/>
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="40"/>
   </p>
 
-  <p align="center"> 
+  <p align="left"> 
     <a href="https://www.linkedin.com/in/a-hemeda">
-      <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="60"/>
+      <img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="70"/>
   </p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
