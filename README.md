@@ -13,7 +13,7 @@
 
   <p align="left"> 
     <a href="https://www.linkedin.com/in/a-hemeda">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="70"/>
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60"/>
   </p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
