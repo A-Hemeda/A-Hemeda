@@ -13,7 +13,7 @@
 
   <p align="left"> 
     <a href="https://www.linkedin.com/in/a-hemeda">
-      <img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="70"/>
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="70"/>
   </p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
