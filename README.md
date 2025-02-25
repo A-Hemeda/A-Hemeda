@@ -20,7 +20,7 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,bootstrap,js,postman,api,git,stackoverflow&perline=13"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,bootstrap,js,postman,swagger,api,git,stackoverflow,leetcode,codepen&perline=16"/>
   </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
