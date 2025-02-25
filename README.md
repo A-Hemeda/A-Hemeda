@@ -20,7 +20,7 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,bootstrap,js,postman,swagger,api,git,stackoverflow,leetcode,codepen&perline=8"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,bootstrap,js,api,swagger,postman,git,stackoverflow,leetcode,codepen&perline=8"/>
   </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
@@ -31,8 +31,6 @@
   <p align="left"> <!-- Languages -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=5&theme=codeSTACKr"/>
   </p>
-
-<br>
 
   <p align="center"> <!-- Snake -->
       <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
