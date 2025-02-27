@@ -14,13 +14,13 @@
 
   <p align="left"> <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/a-hemeda">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="65"/>
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="70"/>
     </a>
   </p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img height="70" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,js,angular,git,stackoverflow,leetcode&perline=11"/>
+    <img height="60" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,js,angular,git,stackoverflow,leetcode&perline=11"/>
   </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
