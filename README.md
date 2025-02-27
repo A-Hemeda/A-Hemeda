@@ -29,7 +29,7 @@
   </p>
 
   <p align="left"> <!-- Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=5&theme=codeSTACKr"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=codeSTACKr"/>
   </p>
 
   <p align="center"> <!-- Snake -->
