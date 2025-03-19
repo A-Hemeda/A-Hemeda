@@ -4,23 +4,23 @@
 
   <p align="center"> <!-- Google Me -->
     <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30D050&pause=1750&size=20">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30D050&pause=1750&size=21">
     </a>
   </p>
 
   <p align="center"> <!-- Profile Views -->
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="30"/>
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="35"/>
   </p>
 
   <p align="left"> <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/a-hemeda">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="70"/>
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="75"/>
     </a>
   </p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img height="70" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,js,ts,angular,docker,git,stackoverflow"/>
+    <img height="65" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,js,ts,angular,docker,git,stackoverflow"/>
   </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
@@ -29,7 +29,7 @@
   </p>
 
   <p align="left"> <!-- Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=codeSTACKr"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=5&theme=codeSTACKr"/>
   </p>
 
   <p align="center"> <!-- Snake -->
