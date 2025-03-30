@@ -12,7 +12,7 @@
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="35"/>
   </p>
 
-  <p align="center"> <!-- LinkedIn -->
+  <p align="left"> <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/a-hemeda">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="75"/>
     </a>
@@ -28,7 +28,7 @@
       <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
   </p>
 
-  <p align="center"> <!-- Languages -->
+  <p align="left"> <!-- Languages -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=5&theme=codeSTACKr"/>
   </p>
 
