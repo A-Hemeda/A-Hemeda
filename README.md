@@ -19,7 +19,7 @@
   </p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
-  <p align="center">
+  <p align="left">
     <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,js,docker,git,stackoverflow"/>
   </p>
 
