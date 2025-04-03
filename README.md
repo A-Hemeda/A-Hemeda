@@ -24,7 +24,7 @@
   </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
-  <p align="center">
+  <p align="left">
       <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
   </p>
 
