@@ -12,12 +12,11 @@
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="30"/>
   </p>
 
-  <p align="center"> <!-- LinkedIn -->
+  <p align="center"> <!-- WhatsApp Channel & LinkedIn -->
     <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" height="70"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" height="60"/></a>
     <a href="https://www.linkedin.com/in/a-hemeda">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="75"/>
-    </a>
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60"/></a>
   </p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
