@@ -14,7 +14,8 @@
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="33"/>
   </p>
 
-  <p align="center"> <!-- WhatsApp Channel & LinkedIn -->
+  <!-- WhatsApp Channel & LinkedIn -->
+  <p align="center">
     <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" height="60"/>
     </a>
