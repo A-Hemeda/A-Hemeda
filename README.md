@@ -34,7 +34,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
   </p>
 
-  <p align="left"> <!-- Languages -->
+  <!-- Languages -->
+  <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=5&theme=codeSTACKr"/>
   </p>
 
