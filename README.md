@@ -39,6 +39,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=5&theme=codeSTACKr"/>
   </p>
 
-  <p align="center"> <!-- Snake -->
+  <!-- Snake -->
+  <p align="center">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </p>
