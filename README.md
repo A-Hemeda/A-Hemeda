@@ -29,13 +29,15 @@
     <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,redis,postman,html,css,js,docker,git,github"/>
   </p>
 
+<!-- 
 <h3 align="left">🏆 GitHub Trophies:</h3>
   <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
   </p>
+-->
 
   <!-- Languages -->
-  <p align="left">
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=5&theme=codeSTACKr"/>
   </p>
 
