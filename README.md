@@ -26,11 +26,11 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,cpp,cs,dotnet,postman,html,css,js,docker,redis,git"/>
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,cpp,cs,dotnet,postman,html,css,js,ts,docker,redis"/>
   </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
-  <p align="left">
+  <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
   </p>
 
