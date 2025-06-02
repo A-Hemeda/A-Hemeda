@@ -10,23 +10,23 @@
 
   <p align="center">  <!-- Profile Views -->
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="30"/>
-  </p>
+  </p><br>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/a-hemeda">  <!-- LinkedIn -->
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60"/>
-    </a>
-    <a href="https://codeforces.com/profile/A-Hemeda">  <!-- CodeForces -->
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" height="60"/>
-    </a>
-    <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">  <!-- WhatsApp Channel -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" height="60"/>
+    <a href="https://www.linkedin.com/in/a-hemeda">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60" />
+    </a>&nbsp;&nbsp;
+    <a href="https://codeforces.com/profile/A-Hemeda">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" height="60" />
+    </a>&nbsp;&nbsp;
+    <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" height="60" />
     </a>
   </p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,redis,postman,html,css,js,docker,git"/>
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,cpp,cs,dotnet,postman,html,css,js,docker,redis,git"/>
   </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
