@@ -1,6 +1,6 @@
-<h1 align="center">I'm Ahmed Hemeda</h1>
+<h1 align="center">Hello! I'm Ahmed Hemeda</h1>
 
-<h2 align="center">Software Engineer | .NET Developer | Full Stack</h2><br>
+<h2 align="center">Software Engineer | .NET Developer</h2><br>
 
   <p align="center">  <!-- Google Me -->
     <a href="https://www.google.com.eg/search?q=ahmed+hemeda">
@@ -9,18 +9,18 @@
   </p>
 
   <p align="center">  <!-- Profile Views -->
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="30"/>
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="35"/>
   </p><br>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/a-hemeda">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="65" />
     </a>&nbsp;&nbsp;
     <a href="https://codeforces.com/profile/A-Hemeda">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" height="60" />
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" height="65" />
     </a>&nbsp;&nbsp;
     <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" height="60" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" height="65" />
     </a>
   </p>
 
