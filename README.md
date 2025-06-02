@@ -9,7 +9,7 @@
   </p>
 
   <p align="center">  <!-- Profile Views -->
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="25"/>
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="27"/>
   </p>
 
   <p align="center">
