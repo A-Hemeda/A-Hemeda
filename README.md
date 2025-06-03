@@ -26,7 +26,7 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,cpp,cs,dotnet,postman,html,css,js,ts,docker,redis"/>
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,sqlserver,redis,html,css,js,docker"/>
   </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
