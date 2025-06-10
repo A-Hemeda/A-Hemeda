@@ -9,7 +9,7 @@
   </p>
 
   <p align="center">  <!-- Profile Views -->
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="35"/>
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="30"/>
   </p><br>
 
   <p align="center">
@@ -19,8 +19,11 @@
     <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">  <!-- WhatsApp Channel -->
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="65" />
     </a>&nbsp;&nbsp;
-    <a href="https://codeforces.com/profile/A-Hemeda">  <!-- CodeForces Profile -->
+    <a href="https://codeforces.com/profile/A-Hemeda">  <!-- Codeforces Profile -->
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" height="65" />
+    </a>&nbsp;&nbsp;
+    <a href="https://leetcode.com/u/A-Hemeda/">  <!-- LeetCode Profile -->
+      <img src="https://shopallpremium.com/wp-content/uploads/2022/02/LeetCode_logo_rvs.png" height="60" />
     </a>
   </p>
 
