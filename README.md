@@ -8,8 +8,8 @@
     </a>
   </p>
 
-<!--  <p align="center">  <!-- Profile Views -->
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&color=4010B0" height="30"/>
+  <p align="center">  <!-- Profile Views -->
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=plastic&color=4010B0" height="30"/>
   </p><br>
 
   <p align="center">
