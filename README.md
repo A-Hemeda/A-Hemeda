@@ -38,7 +38,7 @@
   <p align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=a-hemeda&theme=highcontrast" height="170"/>&nbsp;&nbsp;&nbsp;&nbsp;  <!-- Streak Stats -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="170"/>  <!-- Languages -->
-  </p><br>
+  </p>
 
   <p align="center">    
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">  <!-- Snake -->
