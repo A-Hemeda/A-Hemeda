@@ -36,7 +36,7 @@
   </p><br>
 
   <p align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=a-hemeda&theme=highcontrast" height="140"/>  <!-- Streak Stats -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=codeSTACKr"/>  <!-- Languages -->
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=a-hemeda&theme=dark" height="140"/>  <!-- Streak Stats -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=dark"/>  <!-- Languages -->
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">  <!-- Snake -->
   </p>
