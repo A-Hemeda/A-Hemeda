@@ -12,6 +12,7 @@
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=plastic&color=4010B0" height="30"/>
   </p><br>
 
+<h3 align="left">📤 Connect with Me:</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/a-hemeda">  <!-- LinkedIn Profile -->
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="65" />
@@ -27,18 +28,22 @@
     </a>
   </p><br>
 
+<h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="center"> <!-- Languages & Tools -->
     <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,sqlserver,redis,html,css,js,docker"/>
   </p><br>
 
+<h3 align="left">🏆 GitHub Trophies:</h3>
   <p align="center"> <!-- GitHub Trophies -->
     <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
-  </p>
+  </p><br>
 
+<h3 align="left">🔥 GitHub Strak:</h3>
   <p align="center"> <!-- Streak Stats -->
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=a-hemeda&theme=tokyonight_duo"/>
-  </p>
+  </p><br>
 
+<h3 align="left">📊 Most Used Languages:</h3>
   <p align="center">  <!-- Languages -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=codeSTACKr"/>
   </p>
