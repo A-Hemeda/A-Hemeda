@@ -35,11 +35,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
   </p>
 
-  <p align="center"> <!-- Streak Stats -->
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=a-hemeda&theme=tokyonight_duo" height="150"/>
-  </p>
-
   <p align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=a-hemeda&theme=tokyonight_duo" height="150"/>  <!-- Streak Stats -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=codeSTACKr"/>  <!-- Languages -->
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">  <!-- Snake -->
   </p>
