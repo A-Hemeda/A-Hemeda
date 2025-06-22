@@ -10,7 +10,7 @@
 
   <p align="center">  <!-- Profile Views -->
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=plastic&color=4010B0" height="30"/>
-  </p><br>
+  </p>
 
 <h3 align="left">📤 Connect with Me:</h3>
   <p align="center">
@@ -26,22 +26,22 @@
     <a href="https://leetcode.com/u/A-Hemeda/">  <!-- LeetCode Profile -->
       <img src="https://shopallpremium.com/wp-content/uploads/2022/02/LeetCode_logo_rvs.png" height="60" />
     </a>
-  </p><br>
+  </p>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="center"> <!-- Languages & Tools -->
     <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,sqlserver,redis,html,css,js,docker"/>
-  </p><br>
+  </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
   <p align="center"> <!-- GitHub Trophies -->
     <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
-  </p><br>
+  </p>
 
 <h3 align="left">🔥 GitHub Strak:</h3>
   <p align="center"> <!-- Streak Stats -->
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=a-hemeda&theme=tokyonight_duo"/>
-  </p><br>
+  </p>
 
 <h3 align="left">📊 Most Used Languages:</h3>
   <p align="center">  <!-- Languages -->
@@ -51,6 +51,3 @@
   <p align="center">  <!-- Snake -->
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </p>
-
-
-
