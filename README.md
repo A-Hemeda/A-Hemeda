@@ -36,8 +36,8 @@
   </p><br>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="130"/>&nbsp;&nbsp;&nbsp;&nbsp; <!-- Most Used Languages -->
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=a-hemeda&theme=highcontrast" height="130"/> <!-- GitHub Streak Stats -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="125"/>&nbsp;&nbsp;&nbsp; <!-- Most Used Languages -->
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=a-hemeda&theme=highcontrast" height="125"/> <!-- GitHub Streak Stats -->
   </p>
 
   <p align="center">
