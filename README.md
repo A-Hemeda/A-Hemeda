@@ -32,7 +32,7 @@
   </p><br>
 
   <p align="center"> <!-- GitHub Trophies -->
-    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7" height="120"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7" height="121"/>
   </p><br>
 
   <p align="center">
