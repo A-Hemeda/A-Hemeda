@@ -12,7 +12,6 @@
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=plastic&color=4010B0" height="30"/>
   </p>
 
-<h3 align="left">📤 Connect with Me:</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/a-hemeda">  <!-- LinkedIn Profile -->
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="65" />
@@ -28,7 +27,6 @@
     </a>
   </p>
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="center"> <!-- Languages & Tools -->
     <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,sqlserver,redis,html,css,js,docker"/>
   </p><br>
