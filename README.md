@@ -37,7 +37,7 @@
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="120"/>&nbsp;&nbsp;&nbsp; <!-- Most Used Languages -->
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=a-hemeda&theme=highcontrast" height="120"/> <!-- GitHub Streak Stats -->
+    <!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=a-hemeda&theme=highcontrast" height="120"/> <!-- GitHub Streak Stats -->
   </p>
 
   <p align="center">
