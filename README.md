@@ -10,7 +10,7 @@
 
   <p align="center">  <!-- Profile Views -->
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=plastic&color=4010B0" height="30"/>
-  </p>
+  </p><br>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/a-hemeda">  <!-- LinkedIn Profile -->
@@ -25,7 +25,7 @@
     <a href="https://leetcode.com/u/A-Hemeda/">  <!-- LeetCode Profile -->
       <img src="https://shopallpremium.com/wp-content/uploads/2022/02/LeetCode_logo_rvs.png" height="60" />
     </a>
-  </p>
+  </p><br>
 
   <p align="center"> <!-- Languages & Tools -->
     <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,sqlserver,redis,html,css,js,docker"/>
