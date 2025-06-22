@@ -32,12 +32,12 @@
   </p><br>
 
   <p align="center"> <!-- GitHub Trophies -->
-    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7" height="120"/>
   </p><br>
 
   <p align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=a-hemeda&theme=highcontrast" height="140"/>&nbsp;&nbsp;  <!-- Streak Stats -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast"/>  <!-- Languages -->
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=a-hemeda&theme=highcontrast" height="150"/>&nbsp;&nbsp;  <!-- Streak Stats -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="150"/>  <!-- Languages -->
   </p><br>
 
   <p align="center">    
