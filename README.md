@@ -9,7 +9,7 @@
   </p>
 
   <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=plastic&color=4010B0" height="25"/> <!-- Profile Views -->
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=plastic&color=4010B0" height="30"/> <!-- Profile Views -->
   </p>
 
 <h3 align="left">📤 Connect with Me:</h3>
@@ -39,7 +39,7 @@
   </p><br>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="120"/>&nbsp;&nbsp;&nbsp; <!-- Most Used Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="130"/>&nbsp;&nbsp;&nbsp; <!-- Most Used Languages -->
   </p>
 
   <p align="center">
