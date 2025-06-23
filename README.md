@@ -1,6 +1,6 @@
-<h2 align="center">I'm Ahmed Hemeda</h2>
+<h1 align="center">I'm Ahmed Hemeda</h1>
 
-<h3 align="center">Software Engineer | .NET Developer | Full Stack</h3><br>
+<h2 align="center">Software Engineer | .NET Developer | Full Stack</h2><br>
 
   <p align="center">
     <a href="https://www.google.com.eg/search?q=ahmed+hemeda"> <!-- Google Me -->
