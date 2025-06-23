@@ -8,7 +8,7 @@
     </a>
   </p>
 
-  <p align="left">
+  <p align="center">
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=plastic&color=4010B0"/> <!-- Profile Views -->
   </p>
 
