@@ -39,7 +39,7 @@
   </p><br>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast"/> <!-- Most Used Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=codeSTACKr"/> <!-- Most Used Languages -->
   </p>
 
   <p align="center">
