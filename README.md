@@ -10,8 +10,9 @@
 
   <p align="center">
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=plastic&color=4010B0" height="25"/> <!-- Profile Views -->
-  </p><br>
+  </p>
 
+<h3 align="left">📤 Connect with Me</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="60"/>
@@ -25,19 +26,20 @@
     <a href="https://leetcode.com/u/A-Hemeda/"> <!-- LeetCode Profile -->
       <img src="https://shopallpremium.com/wp-content/uploads/2022/02/LeetCode_logo_rvs.png" height="60"/>
     </a>
-  </p><br>
+  </p>
 
+<h3 align="left">⚒🛠️ Languages & Tools:</h3>
   <p align="center">
-    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,sqlserver,redis,html,css,js,docker"/> <!-- My Languages & Tools -->
-  </p><br>
+    <img height="75" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,sqlserver,redis,html,css,js,docker"/>
+  </p>
 
+<h3 align="left">🏆 GitHub Trophies:</h3>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/> <!-- GitHub Trophies -->
-  </p><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
+  </p>
 
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="120"/>&nbsp;&nbsp;&nbsp; <!-- Most Used Languages -->
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=a-hemeda&theme=highcontrast" height="120"/> <!-- GitHub Streak Stats -->
   </p>
 
   <p align="center">
