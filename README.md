@@ -39,8 +39,8 @@
   </p><br>
 
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=codeSTACKr"/> <!-- Most Used Languages -->
-  </p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast"/> &nbsp; <!-- Most Used Languages -->
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="140"/> <!-- GitHub Streak -->  </p>
 
   <p align="left">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
