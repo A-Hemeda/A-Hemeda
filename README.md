@@ -1,6 +1,7 @@
 <h1 align="center">I'm Ahmed Hemeda</h1>
 
-<h2 align="center">Software Engineer | .NET Developer | Full Stack</h2><br>
+<h2 align="center">Software Engineer | .NET Developer | Full Stack</h2>
+<br>
 
   <p align="center">
     <a href="https://www.google.com.eg/search?q=ahmed+hemeda"> <!-- Google Me -->
@@ -36,11 +37,13 @@
 <h3 align="left">🏆 GitHub Trophies:</h3>
   <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
-  </p><br>
+  </p>
+  <br>
 
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
-    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="120"/> <!-- GitHub Streak -->  </p>
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="120"/> <!-- GitHub Streak -->
+  </p>
 
   <p align="left">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
