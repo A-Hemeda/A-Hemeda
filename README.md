@@ -16,7 +16,7 @@
 <h3 align="left">📤 Connect with Me:</h3>
   <p align="left">
     <a href="mailto:7hemeda@gmail.com"> <!-- Gmail -->
-      <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
+      <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="33"/>
     </a>&nbsp;
     <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
@@ -26,9 +26,6 @@
     </a>&nbsp;
     <a href="https://codeforces.com/profile/A-Hemeda"> <!-- Codeforces Profile -->
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" height="45"/>
-    </a>&nbsp;
-    <a href="https://leetcode.com/u/A-Hemeda/"> <!-- LeetCode Profile -->
-      <img src="https://github.com/user-attachments/assets/46cb286a-7f5e-452e-8c57-f9d227aacdff" height="45"/>
     </a>
   </p>
 
