@@ -16,7 +16,7 @@
 <h3 align="left">📤 Connect with Me:</h3>
   <p align="left">
     <a href="mailto:7hemeda@gmail.com"> <!-- Gmail -->
-      <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="33"/>
+      <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
     </a>&nbsp;
     <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
