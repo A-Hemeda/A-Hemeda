@@ -10,7 +10,7 @@
   </p>
 
   <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="30"/> <!-- Profile Views -->
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="31"/> <!-- Profile Views -->
   </p>
 
 <h3 align="left">📤 Connect with Me:</h3>
