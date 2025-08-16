@@ -9,9 +9,11 @@
     </a>
   </p>
 
-  <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="33"/> <!-- Profile Views -->
+  <p align="left">
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="35"/> <!-- Profile Views -->
   </p>
+
+## [📄 Check my CV](https://drive.google.com/file/d/1sW7x4Zdb6xzsCYuYVHHVz3Or_Efryr_A/view?usp=drivesdk)
 
 <h3 align="left">📤 Connect with Me:</h3>
   <p align="left">
