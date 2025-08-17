@@ -13,7 +13,7 @@
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="35"/> <!-- Profile Views -->
   </p>
 
-## [📄 Check my CV](https://drive.google.com/file/d/1sW7x4Zdb6xzsCYuYVHHVz3Or_Efryr_A/view?usp=drivesdk)
+## [📄 Check my CV]()
 
 <h3 align="left">📤 Connect with Me:</h3>
   <p align="left">
