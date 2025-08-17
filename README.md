@@ -1,16 +1,15 @@
 <h1 align="center">I'm Ahmed Hemeda</h1>
 
 <h2 align="center">Software Engineer | .NET Developer</h2>
-<br>
 
   <p align="center">
     <a href="https://www.google.com.eg/search?q=ahmed+hemeda"> <!-- Google Me -->
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30F050&pause=2000"> <!-- Text -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30F050&pause=2000">
     </a>
   </p>
 
   <p align="left">
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="35"/> <!-- Profile Views -->
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="37"/> <!-- Profile Views -->
   </p>
 
 ## [📄 Check my CV](https://drive.google.com/file/d/1U_x8Mc_3Q94_GeeXG8cwPS36_Fnqm_3p/view?usp=drivesdk)
