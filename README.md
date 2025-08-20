@@ -12,7 +12,7 @@
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="37"/> <!-- Profile Views -->
   </p>
 
-## [📄 Check my CV](https://drive.google.com/file/d/1U_x8Mc_3Q94_GeeXG8cwPS36_Fnqm_3p/view?usp=drivesdk)
+## [📄 Check my CV](https://drive.google.com/file/d/1LyZbU71TJy3RwavQyOwTX83NLbPzMHtv/view?usp=drive_link)
 
 <h3 align="left">📤 Connect with Me:</h3>
   <p align="left">
