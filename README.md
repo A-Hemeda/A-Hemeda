@@ -10,7 +10,7 @@
   </p>
 
   <p align="left">
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="40"/> <!-- Profile Views -->
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="41"/> <!-- Profile Views -->
   </p>
 
 ## [📄 Check my CV](https://drive.google.com/file/d/1LyZbU71TJy3RwavQyOwTX83NLbPzMHtv/view?usp=drive_link)
