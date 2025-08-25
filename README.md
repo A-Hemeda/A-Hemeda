@@ -15,7 +15,7 @@
 
 ## [🔗 My Portfolio](https://a-hemeda.github.io/Portfolio/)
 
-## [📄 Check my CV](https://drive.google.com/file/d/1HLD1yj74dvq0oC9RN1RKtRMFk1cqcXCh/view?usp=drive_link)
+## [📄 Check my CV]()
 
 <h3 align="left">📤 Connect with Me:</h3>
   <p align="left">
