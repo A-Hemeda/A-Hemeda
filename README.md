@@ -10,7 +10,7 @@
   </p>
 
   <p align="left">
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0" height="43"/> <!-- Profile Views -->
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0"/> <!-- Profile Views -->
   </p>
 
 ## [🔗 My Portfolio](https://a-hemeda.github.io/Portfolio/)
