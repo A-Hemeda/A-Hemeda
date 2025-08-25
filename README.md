@@ -43,8 +43,9 @@
   <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
   </p>
-  <br>
 -->
+
+  <br>
 
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
