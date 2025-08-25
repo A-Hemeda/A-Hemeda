@@ -13,9 +13,9 @@
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0"/> <!-- Profile Views -->
   </p>
 
-## [🔗 My Portfolio](https://a-hemeda.github.io/Portfolio/)
+## [✨ My Portfolio](https://a-hemeda.github.io/Portfolio/)
 
-## [📄 Check my CV](https://drive.google.com/file/d/1ph8l91H4_2TqgysOTdTy7B-c3R1lk4ca/view?usp=drive_link)
+## [📄 Check My CV](https://drive.google.com/file/d/1ph8l91H4_2TqgysOTdTy7B-c3R1lk4ca/view?usp=drive_link)
 
 <h3 align="left">📤 Connect with Me:</h3>
   <p align="left">
