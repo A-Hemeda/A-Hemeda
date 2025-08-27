@@ -46,8 +46,9 @@
   <br>
 
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&theme=highcontrast" height="130"/> &nbsp; <!-- GitHub Stats -->
-    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="130"/> <!-- GitHub Streak -->
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&theme=highcontrast" height="120"/> &nbsp; <!-- GitHub Stats -->
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="120"/> &nbsp; <!-- GitHub Streak -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="120"/> <!-- Most Used Languages -->
   </p>
 
   <p align="left">
