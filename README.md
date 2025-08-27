@@ -40,8 +40,8 @@
   <br>
 
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&theme=highcontrast" height="150"/> &nbsp; <!-- GitHub Stats -->
-    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="150"/> <!-- GitHub Streak -->
+    <img src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&theme=highcontrast" height="125"/> &nbsp; <!-- GitHub Stats -->
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/> <!-- GitHub Streak -->
   </p>
 
   <p align="left">
