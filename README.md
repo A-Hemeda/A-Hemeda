@@ -37,17 +37,14 @@
   <p align="left">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,swagger,sqlserver,redis,git,html,css,js,docker"/>
   </p>
+  <br>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
   <p align="left">
-    
-   [![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  </div>
   
- </p>
-<br>
-
-
+  [![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  </div>
+  <br>
 
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&theme=highcontrast" height="130"/> &nbsp; <!-- GitHub Stats -->
