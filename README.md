@@ -37,16 +37,10 @@
   <p align="left">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,swagger,sqlserver,redis,git,html,css,js,docker"/>
   </p>
-
-<!--
-<h3 align="left">🏆 GitHub Trophies:</h3>
--->
-  <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
-  </p>
   <br>
 
   <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&theme=highcontrast" height="120"/> &nbsp; <!-- GitHub Stats -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
     <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="120"/> <!-- GitHub Streak -->
   </p>
