@@ -37,7 +37,6 @@
   <p align="left">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,swagger,sqlserver,redis,git,html,css,js,docker"/>
   </p>
-  <br>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
   <p align="left">
