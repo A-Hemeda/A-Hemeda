@@ -17,7 +17,7 @@
 
 ### [🌐 View My Portfolio](https://a-hemeda.github.io/Portfolio/)
 
-<h3 align="left">📤 Connect with Me:</h3>
+### `📤 Connect with Me:`
   <p align="left">
     <a href="mailto:7hemeda@gmail.com"> <!-- Gmail -->
       <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
@@ -36,12 +36,13 @@
     </a>
   </p>
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
+### `🛠️ Languages & Tools:`
+
   <p align="left">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,swagger,sqlserver,redis,git,html,css,js,docker"/>
   </p>
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
+### `GitHub Trophies:`
   <p align="left">
   
   [![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
