@@ -15,7 +15,7 @@
 
 ### [📄 View My CV](https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk)
 
-### [🌐 View My Portfolio](https://a-hemeda.github.io/Portfolio/)
+### [🌐 My Portfolio](https://a-hemeda.github.io/Portfolio/)
 
 ### `📤 Contact & Social:`
   <p align="left">
