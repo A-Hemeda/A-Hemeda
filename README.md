@@ -4,7 +4,7 @@
 <br>
 
   <p align="center">
-    <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
+    <a href="https://www.google.com.eg/search?q=A-Hemeda"> <!-- Google Me -->
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn%20Profile;I%20Post%20Insightful%20Content;Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30F050&pause=2000">
     </a>
   </p>
