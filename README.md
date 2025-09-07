@@ -27,12 +27,6 @@
     </a>&nbsp;
     <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O"> <!-- WhatsApp Channel -->
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/>
-    </a>&nbsp;
-    <a href="https://codeforces.com/profile/A-Hemeda"> <!-- Codeforces Profile -->
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-2-pack-logos-icons-3029920.png" height="45"/>
-    </a>&nbsp;
-    <a href="https://leetcode.com/u/A-Hemeda"> <!-- LeetCode Profile -->
-      <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="40"/>
     </a>
   </p>
 
