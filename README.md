@@ -39,7 +39,7 @@
 ### `🏆 GitHub Trophies:`
   <p align="left">
   
-  [![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
   </div>
 
 ### `🔥 GitHub Streak:`
