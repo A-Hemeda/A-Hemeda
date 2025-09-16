@@ -17,7 +17,6 @@
 
 ### [🌐 My Portfolio](https://a-hemeda.github.io/Portfolio/)
 
-### `📤 Contact & Social`
   <p align="left">
     <a href="mailto:7hemeda@gmail.com"> <!-- Gmail -->
       <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
@@ -30,19 +29,19 @@
     </a>
   </p>
 
-### `🛠️ Languages & Tools`
+### `🛠️ Languages & Tools: `
 
   <p align="left">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,swagger,sqlserver,redis,git,html,css,js,docker"/>
   </p>
 
-### `🏆 GitHub Trophies`
+### `🏆 GitHub Trophies: `
   <p align="left">
   
   ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
   </div>
 
-### `🔥 Streak`
+### `🔥 Streak: `
   <p align="left">
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&theme=highcontrast" height="125"/> &nbsp; <!-- GitHub Stats -->
     <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/> &nbsp; <!-- GitHub Streak -->
