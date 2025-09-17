@@ -23,7 +23,7 @@
 
   <p align="left">
     <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" height="50"/>
     </a>
   </p>
 
