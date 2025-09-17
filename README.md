@@ -25,9 +25,6 @@
     </a> &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50"/>
-    </a> &nbsp;&nbsp;
-    <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O"> <!-- WhatsApp Channel -->
-      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/>
     </a>
   </p>
 
