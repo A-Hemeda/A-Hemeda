@@ -22,10 +22,10 @@
   <p align="left">
     <a href="mailto:7hemeda@gmail.com"> <!-- Gmail -->
       <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="45"/>
-    </a>&nbsp;
+    </a> &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50"/>
-    </a>&nbsp;
+    </a> &nbsp;&nbsp;
     <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O"> <!-- WhatsApp Channel -->
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/>
     </a>
