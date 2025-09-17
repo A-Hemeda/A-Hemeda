@@ -17,6 +17,8 @@
 
 ## [🌐 My Portfolio](https://a-hemeda.github.io/Portfolio/)
 
+### [7hemeda@gmail.com](mailto:7hemeda@gmail.com)
+
 <br>
 
   <p align="left">
