@@ -17,13 +17,13 @@
 
 ### [🌐 My Portfolio](https://a-hemeda.github.io/Portfolio/)
 
-### [7hemeda@gmail.com](mailto:7hemeda@gmail.com)
-
   <p align="left">
     <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" height="43"/>
     </a>
   </p>
+
+### [7hemeda@gmail.com](mailto:7hemeda@gmail.com)
 
 ### `🛠️ Languages & Tools: `
 
