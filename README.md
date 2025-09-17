@@ -20,10 +20,10 @@
   <p align="left">
     <a href="mailto:7hemeda@gmail.com"> <!-- Gmail -->
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="43"/>
-    </a> &nbsp;
+    </a> &nbsp; &nbsp;
     <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="53"/>
-    </a> &nbsp;
+    </a> &nbsp; &nbsp;
     <a href="https://codeforces.com/profile/11Hemeda"> <!-- Codeforces Profile -->
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="53"/>
     </a> &nbsp;
