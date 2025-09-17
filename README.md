@@ -17,11 +17,12 @@
 
 ### [🌐 My Portfolio](https://a-hemeda.github.io/Portfolio/)
 
-### [7hemeda@gmail.com](mailto:7hemeda@gmail.com)
-
   <p align="left">
+    <a href="mailto:7hemeda@gmail.com"> <!-- Gmail -->
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="45"/>
+    </a> &nbsp;
     <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" height="45"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" height="45"/>
     </a> &nbsp;
     <a href="https://codeforces.com/profile/11Hemeda"> <!-- Codeforces Profile -->
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="45"/>
