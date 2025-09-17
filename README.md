@@ -13,17 +13,17 @@
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0"/> <!-- Profile Views -->
   </p>
 
-## [📄 View My CV](https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk)
+### [📄 View My CV](https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk)
 
-## [🌐 My Portfolio](https://a-hemeda.github.io/Portfolio/)
+### [🌐 My Portfolio](https://a-hemeda.github.io/Portfolio/)
 
-### [7hemeda@gmail.com](mailto:7hemeda@gmail.com)
+#### [7hemeda@gmail.com](mailto:7hemeda@gmail.com)
 
 <br>
 
   <p align="left">
     <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" height="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" height="45"/>
     </a>
   </p>
 
