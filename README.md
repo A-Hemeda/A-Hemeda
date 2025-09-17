@@ -17,8 +17,6 @@
 
 ### [🌐 My Portfolio](https://a-hemeda.github.io/Portfolio/)
 
-<br>
-
   <p align="left">
     <a href="mailto:7hemeda@gmail.com"> <!-- Gmail -->
       <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
