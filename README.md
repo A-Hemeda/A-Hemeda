@@ -22,6 +22,12 @@
   <p align="left">
     <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg" height="45"/>
+    </a> &nbsp;
+    <a href="https://codeforces.com/profile/11Hemeda"> <!-- Codeforces Profile -->
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="45"/>
+    </a> &nbsp;
+    <a href="https://leetcode.com/u/A-Hemeda/"> <!-- LeetCode Profile -->
+      <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="45"/>
     </a>
   </p>
 
