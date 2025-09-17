@@ -28,7 +28,7 @@
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="53"/>
     </a> &nbsp;
     <a href="https://leetcode.com/u/A-Hemeda/"> <!-- LeetCode Profile -->
-      <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="53"/>
+      <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50"/>
     </a>
   </p>
 
