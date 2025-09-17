@@ -17,6 +17,8 @@
 
 ### [🌐 My Portfolio](https://a-hemeda.github.io/Portfolio/)
 
+<br>
+
   <p align="left">
     <a href="mailto:7hemeda@gmail.com"> <!-- Gmail -->
       <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
@@ -28,7 +30,6 @@
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/>
     </a>
   </p>
-<br>
 
 ### `🛠️ Languages & Tools: `
 
