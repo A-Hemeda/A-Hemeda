@@ -30,6 +30,7 @@
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/>
     </a>
   </p>
+<br>
 
 ### `🛠️ Languages & Tools: `
 
@@ -42,7 +43,6 @@
   
   ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
   </div>
-
 <br>
 
   <p align="left">
