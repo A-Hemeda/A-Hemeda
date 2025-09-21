@@ -38,7 +38,7 @@
       <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="47"/></a>
   </p>
 
-#### `🛠️ Languages & Tools: `
+#### `🛠️ Featured Languages & Tools: `
 
   <p align="left">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,swagger,sqlserver,redis,git,html,css,js,docker"/>
