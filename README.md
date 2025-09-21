@@ -8,11 +8,10 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
   </p>
 
-  <p align="center">
+  <p align="left">
     <a href="https://www.google.com.eg/search?q=A-Hemeda"> <!-- Google Me -->
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3510B0"/></a>
   </p>
-  <p align="center">
     <a href="https://gh-most-followed.pages.dev/egypt">
       <img src="https://img.shields.io/badge/🔗 26th-Most Followed User in Egypt-0050A0"/></a>
     <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/egypt.md">
