@@ -11,6 +11,8 @@
   <p align="center">
     <a href="https://www.google.com.eg/search?q=A-Hemeda"> <!-- Google Me -->
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3510B0"/></a>
+  </p>
+  <p align="center">
     <a href="https://gh-most-followed.pages.dev/egypt">
       <img src="https://img.shields.io/badge/🔗 26th-Most Followed User in Egypt-0050A0"/></a>
     <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/egypt.md">
