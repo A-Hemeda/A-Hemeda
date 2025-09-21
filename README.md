@@ -24,7 +24,7 @@
       <img src="https://img.shields.io/badge/23th-Top User By Public Contributions in Egypt-700000?style=plastic&logo=github"/></a>
   </p>
 
-  #### `📤 Connect & Competitive Programming: `
+  #### `📤 Connect & Competitive Programming`
   <p align="left">
     <a href="mailto:7hemeda@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="41"/></a> &nbsp;
@@ -38,13 +38,13 @@
       <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="47"/></a>
   </p>
 
-#### `🛠️ Featured Languages & Tools: `
+#### `🛠️ Featured Languages & Tools`
 
   <p align="left">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,swagger,sqlserver,redis,git,html,css,js,docker"/>
   </p>
 
-#### `🏆 GitHub Trophies: `
+#### `🏆 GitHub Trophies`
   <p align="left">
   
   ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
