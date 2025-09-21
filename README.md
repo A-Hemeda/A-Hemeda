@@ -8,20 +8,22 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
   </p>
 
-  <p align="left">
+  <p>
     <a href="https://www.google.com.eg/search?q=A-Hemeda"> <!-- Google Me -->
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3510B0"/></a>
   </p>
-    <a href="https://gh-most-followed.pages.dev/egypt">
-      <img src="https://img.shields.io/badge/26th-Most Followed User in Egypt-0050A0?&logo=github"/></a>
-    <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/egypt.md">
-      <img src="https://img.shields.io/badge/23th-Top User By Public Contributions in Egypt-007070?&logo=github"/></a>
+    <a href="https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk">
+      <img src="https://img.shields.io/badge/📄-View My CV-007050?style=flat-square"/></a>
+    <a href="https://a-hemeda.github.io/Portfolio">
+      <img src="https://img.shields.io/badge/🌐-My Portfolio-0050A0?style=flat-square"/></a>
   </p>
-
-### [📄 View My CV](https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk)
-
-### [🌐 My Portfolio](https://a-hemeda.github.io/Portfolio/)
-
+    <a href="https://gh-most-followed.pages.dev/egypt">
+      <img src="https://img.shields.io/badge/26th-Most Followed User in Egypt-0050A0?style=social&logo=github"/></a>
+  </p>
+    <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/egypt.md">
+      <img src="https://img.shields.io/badge/23th-Top User By Public Contributions in Egypt-007070?style=social&logo=github"/></a>
+  </p>
+  
   <p align="left">
     <a href="mailto:7hemeda@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="40"/></a> &nbsp; &nbsp;
