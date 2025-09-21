@@ -16,19 +16,19 @@
       <img src="https://img.shields.io/badge/🔗 Most Followed GitHub Users in Egypt-26th-0050A0"/></a>
   </p>
 
-## [📄 View My CV](https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk)
+### [📄 View My CV](https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk)
 
-## [🌐 My Portfolio](https://a-hemeda.github.io/Portfolio/)
+### [🌐 My Portfolio](https://a-hemeda.github.io/Portfolio/)
 
   <p align="left">
     <a href="mailto:7hemeda@gmail.com">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="43"/></a> &nbsp; &nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="40"/></a> &nbsp; &nbsp;
     <a href="https://www.linkedin.com/in/a-hemeda">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="53"/></a> &nbsp; &nbsp;
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50"/></a> &nbsp; &nbsp;
     <a href="https://codeforces.com/profile/11Hemeda">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="53"/></a> &nbsp;
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="50"/></a> &nbsp;
     <a href="https://leetcode.com/u/A-Hemeda/">
-      <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50"/></a>
+      <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="47"/></a>
   </p>
 
 #### `🛠️ Languages & Tools: `
