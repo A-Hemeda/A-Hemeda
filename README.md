@@ -27,7 +27,7 @@
   #### `📤 Connect: `
   <p align="left">
     <a href="mailto:7hemeda@gmail.com">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="40"/></a> &nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="41"/></a> &nbsp;
     <a href="https://www.linkedin.com/in/a-hemeda">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50"/></a> &nbsp;
     <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
