@@ -10,7 +10,7 @@
   </p>
 
   <p align="left">
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0"/> <!-- Profile Views -->
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=4010B0"/>
   </p>
 
 ## [📄 View My CV](https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk)
@@ -18,16 +18,16 @@
 ## [🌐 My Portfolio](https://a-hemeda.github.io/Portfolio/)
 
   <p align="left">
-    <a href="mailto:7hemeda@gmail.com"> <!-- Gmail -->
+    <a href="mailto:7hemeda@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="43"/>
     </a> &nbsp; &nbsp;
-    <a href="https://www.linkedin.com/in/a-hemeda"> <!-- LinkedIn Profile -->
+    <a href="https://www.linkedin.com/in/a-hemeda">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="53"/>
     </a> &nbsp; &nbsp;
-    <a href="https://codeforces.com/profile/11Hemeda"> <!-- Codeforces Profile -->
+    <a href="https://codeforces.com/profile/11Hemeda">
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="53"/>
     </a> &nbsp;
-    <a href="https://leetcode.com/u/A-Hemeda/"> <!-- LeetCode Profile -->
+    <a href="https://leetcode.com/u/A-Hemeda/">
       <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50"/>
     </a>
   </p>
@@ -46,11 +46,11 @@
 <br>
 
   <p align="left">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&theme=highcontrast" height="125"/> &nbsp; <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp; <!-- Most Used Languages -->
-    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/> <!-- GitHub Streak -->
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=a-hemeda&show_icons=true&theme=highcontrast" height="125"/> &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/>
   </p>
 
   <p align="left">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </p>
