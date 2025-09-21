@@ -13,7 +13,7 @@
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3510B0"/></a>
   </p>
     <a href="https://gh-most-followed.pages.dev/egypt">
-      <img src="https://img.shields.io/badge/🔗 Most Followed GitHub Users in Egypt-26th-0050A0"/></a>
+      <img src="https://img.shields.io/badge/🔗 Most Followed User in Egypt-26th-0050A0"/></a>
   </p>
 
 ### [📄 View My CV](https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk)
