@@ -18,10 +18,10 @@
       <img src="https://img.shields.io/badge/🌐-My Portfolio-0050A0?style=flat-square"/></a>
   </p>
     <a href="https://gh-most-followed.pages.dev/egypt">
-      <img src="https://img.shields.io/badge/26th-Most Followed User in Egypt-0050A0?style=social&logo=github"/></a>
+      <img src="https://img.shields.io/badge/26th-Most Followed User in Egypt-000000?style=social&logo=github"/></a>
   </p>
     <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/egypt.md">
-      <img src="https://img.shields.io/badge/23th-Top User By Public Contributions in Egypt-007070?style=social&logo=github"/></a>
+      <img src="https://img.shields.io/badge/23th-Top User By Public Contributions in Egypt-000000?style=social&logo=github"/></a>
   </p>
   
   <p align="left">
