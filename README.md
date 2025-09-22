@@ -22,9 +22,9 @@
 
   <p>
     <a href="https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk">
-      <img src="https://img.shields.io/badge/📄 My CV-004A30?style=flat" style="height:33px; object-fit:contain;"/></a> &nbsp;
+      <img src="https://img.shields.io/badge/📄 My CV-004520?style=flat" style="height:33px; object-fit:contain;"/></a> &nbsp;
     <a href="https://a-hemeda.github.io/Portfolio">
-      <img src="https://img.shields.io/badge/🌐 My Portfolio-003AA0?style=flat" style="height:33px; object-fit:contain;"/></a>
+      <img src="https://img.shields.io/badge/🌐 My Portfolio-00307A?style=flat" style="height:33px; object-fit:contain;"/></a>
   </p>
 
   #### `📤 Connect & Competitive Programming`
