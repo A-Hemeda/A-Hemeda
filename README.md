@@ -8,27 +8,17 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
   </p>
 
-<p>
-  <a href="https://www.google.com.eg/search?q=A-Hemeda">
-    <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3010A0" style="height:25px; object-fit:contain;"/></a>
-</p>
+  <p>
+    <a href="https://www.google.com.eg/search?q=A-Hemeda">
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3010A0" style="height:23px; object-fit:contain;"/></a>
+  </p>
 
-<p>
-  <a href="https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk">
-    <img src="https://img.shields.io/badge/📄-My CV-005035?style=flat-square" style="height:25px; object-fit:contain;"/></a> &nbsp;
-
-  <a href="https://a-hemeda.github.io/Portfolio">
-    <img src="https://img.shields.io/badge/🌐-My Portfolio-0050A0?style=flat-square" style="height:25px; object-fit:contain;"/></a>
-</p>
-
-<p>
-  <a href="https://gh-most-followed.pages.dev/egypt">
-    <img src="https://img.shields.io/badge/26th-Most Followed User in Egypt-1A1D1D?style=flat-square&logo=github" style="height:25px; object-fit:contain;"/></a> &nbsp;
-
-  <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/egypt.md">
-    <img src="https://img.shields.io/badge/23th-Top User By Public Contributions in Egypt-1A1D1D?style=flat-square&logo=github" style="height:25px; object-fit:contain;"/></a>
-</p>
-
+  <p>
+    <a href="https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk">
+      <img src="https://img.shields.io/badge/📄-My CV-005035?style=flat-square" style="height:27px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://a-hemeda.github.io/Portfolio">
+      <img src="https://img.shields.io/badge/🌐-My Portfolio-0050A0?style=flat-square" style="height:27px; object-fit:contain;"/></a>
+  </p>
 
   #### `📤 Connect & Competitive Programming`
   <p align="left">
@@ -48,6 +38,13 @@
 
   <p align="left">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,swagger,sqlserver,redis,git,html,css,js,docker"/>
+  </p>
+
+  <p>
+    <a href="https://gh-most-followed.pages.dev/egypt">
+      <img src="https://img.shields.io/badge/26th-Most Followed User in Egypt-1A1D1D?style=flat-square&logo=github" style="height:25px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/egypt.md">
+      <img src="https://img.shields.io/badge/23th-Top User By Public Contributions in Egypt-1A1D1D?style=flat-square&logo=github" style="height:25px; object-fit:contain;"/></a>
   </p>
 
 #### `🏆 GitHub Trophies`
