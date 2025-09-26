@@ -27,7 +27,7 @@
       <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
   </p>
 
-  #### `📤 Connect & Competitive Programming`
+  ### `📤 Connect & Competitive Programming`
   <p align="left">
     <a href="mailto:7hemeda@gmail.com">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="41"/></a> &nbsp;
