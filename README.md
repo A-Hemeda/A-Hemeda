@@ -34,11 +34,11 @@
     <a href="https://www.linkedin.com/in/a-hemeda">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50"/></a> &nbsp;
     <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
-      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="47"/></a> &nbsp;
+      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="48"/></a> &nbsp;
     <a href="https://codeforces.com/profile/11Hemeda">
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="50"/></a> &nbsp;
     <a href="https://leetcode.com/u/A-Hemeda/">
-      <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="47"/></a>
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="47"/></a>
   </p>
 
 #### `🛠️ Featured Languages & Tools`
