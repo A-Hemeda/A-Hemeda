@@ -1,6 +1,6 @@
   <p align="center">
     <a href="https://gh-most-followed.pages.dev/egypt">
-      <img src="https://img.shields.io/badge/26ᵗʰ Most Followed User 🇪🇬-202525?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
+      <img src="https://img.shields.io/badge/25ᵗʰ Most Followed User 🇪🇬-202525?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
     <a href="https://committers.top/egypt">
       <img src="https://img.shields.io/badge/18ᵗʰ Most Active User 🇪🇬-202525?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
   </p>
