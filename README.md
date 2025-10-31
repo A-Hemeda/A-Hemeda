@@ -38,7 +38,7 @@
     <a href="https://www.youtube.com/@A-Hemeda">
       <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="48"/></a> &nbsp;
     <a href="https://stackoverflow.com/users/28317461/ahmed-hemeda">
-      <img src="https://www.daskeyboard.com/images/applets/stack-overflow/icon.png" height="48"/></a> &nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" height="48"/></a> &nbsp;
     <a href="https://codeforces.com/profile/11Hemeda">
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="48"/></a> &nbsp;
     <a href="https://leetcode.com/u/A-Hemeda/">
