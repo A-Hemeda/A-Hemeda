@@ -41,7 +41,7 @@
       <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="48"/></a>
   </p>
 
-#### `🛠️ Top Technical Skills`
+#### `🛠️ Top Technical Skills & Tools`
 
   <p align="left">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,swagger,apidog,sqlserver,dapper,redis,git,html,css,js,docker"/>
