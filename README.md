@@ -35,6 +35,8 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48"/></a> &nbsp;
     <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="48"/></a> &nbsp;
+    <a href="https://www.youtube.com/@A-Hemeda">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="37"/></a> &nbsp;&nbsp;&nbsp;
     <a href="https://codeforces.com/profile/11Hemeda">
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="48"/></a> &nbsp;
     <a href="https://leetcode.com/u/A-Hemeda/">
