@@ -27,7 +27,7 @@
       <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
   </p>
 
-  #### `📤 Connect & Competitive Programming`
+  ### `📤 Connect & Competitive Programming`
   <p align="left">
     <a href="mailto:7hemeda@gmail.com">
       <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="48"/></a> &nbsp;
@@ -45,13 +45,13 @@
       <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="48"/></a>
   </p>
 
-#### `🛠️ Top Technical Skills & Tools`
+### `🛠️ Top Technical Skills & Tools`
 
   <p align="left">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,postman,swagger,apidog,sqlserver,dapper,redis,git,html,css,js,docker"/>
   </p>
 
-#### `🏆 GitHub Trophies`
+### `🏆 GitHub Trophies`
   <p align="left">
   
 ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
