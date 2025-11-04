@@ -1,8 +1,8 @@
   <p align="center">
     <a href="https://gh-most-followed.pages.dev/egypt">
-      <img src="https://img.shields.io/badge/13ᵗʰ Most Followed User 🇪🇬-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
+      <img src="https://img.shields.io/badge/16ᵗʰ Most Followed User 🇪🇬-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
     <a href="https://committers.top/egypt">
-      <img src="https://img.shields.io/badge/11ᵗʰ Most Active User 🇪🇬-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
+      <img src="https://img.shields.io/badge/16ᵗʰ Most Active User 🇪🇬-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
   </p>
 
 <h1 align="center">Hi, I'm Ahmed Hemeda</h1>
@@ -48,7 +48,7 @@
 ### 🛠️ Top Technical Skills & Tools
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,dapper,redis,html,css,js,postman,swagger,git&perline=7" style="height:111px;"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,dapper,redis,html,css,js,postman,swagger,git&perline=7" style="height:113px;"/>
   </p>
 
 ### 🏆 GitHub Trophies
