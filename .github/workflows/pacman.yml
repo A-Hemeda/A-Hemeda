@@ -23,11 +23,15 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+        env:
+          # This was missing and caused the crash
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Move files to dist directory
         run: |
           mkdir -p dist
-          mv pacman-contribution-graph* dist/
+          # The action generates the file in the root, we move it to dist
+          mv pacman-contribution-graph.svg dist/
 
       - name: Push to pacman-output branch
         uses: peaceiris/actions-gh-pages@v3
