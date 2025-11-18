@@ -3,9 +3,7 @@ name: Generate pacman animation
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
     - main
@@ -18,16 +16,27 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      # 1. Checkout is required to access files
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Generate the SVG using the correct action (maurodesouza matches your HTML)
       - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+        uses: maurodesouza/pacman-contribution-graph@v2
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      # 3. Create a dist folder and move the file there (so the deployer can find it)
+      - name: Move to dist
+        run: |
+          mkdir -p dist
+          mv pacman-contribution-graph.svg dist/
 
-      - name: push pacman-contribution-graph.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      # 4. Push to a SEPARATE branch to avoid deleting your Snake animation
+      - name: Push pacman-contribution-graph.svg to the pacman-output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: pacman-output
+          publish_dir: ./dist
+          force_orphan: true
