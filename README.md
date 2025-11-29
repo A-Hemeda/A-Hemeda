@@ -12,7 +12,7 @@
 
   <p align="center">
     <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Check%20my%20Social%20Accounts;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=View%20my%20Social%20Media%20Accounts;Check%20my%20Popular%20repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
   </p>
 
   <p>
