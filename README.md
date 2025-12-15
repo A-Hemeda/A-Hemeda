@@ -2,7 +2,7 @@
     <a href="https://gh-most-followed.pages.dev/egypt">
       <img src="https://img.shields.io/badge/14ᵗʰ Most Followed User 🇪🇬-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
     <a href="https://committers.top/egypt">
-      <img src="https://img.shields.io/badge/10ᵗʰ Most Active User 🇪🇬-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
+      <img src="https://img.shields.io/badge/8ᵗʰ Most Active User 🇪🇬-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
   </p>
 
 <h1 align="center">Hi, I'm Ahmed Hemeda</h1>
