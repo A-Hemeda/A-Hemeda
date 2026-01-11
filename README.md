@@ -59,7 +59,7 @@
 <br>
 
   <p align="left">
-    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/>
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast"/>
   </p>
 
 ![Snake Animation](https://github.com/A-Hemeda/A-Hemeda/blob/output/snake-dark.svg)
