@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
     
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&pause=2000&duration=2000&lines=Check+my+popular+repositories;+Visit+my+Social+Accounts)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&pause=2000&duration=2000&lines=Check+my+popular+repositories;+Visit+my+Social+Accounts)
 </div>
 
   <p>
