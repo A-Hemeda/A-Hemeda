@@ -10,10 +10,11 @@
 <h2 align="center">Software Engineer | .NET Developer | Full Stack</h2>
 <br>
 
-  <p align="center">
-    <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=View%20my%20Social%20Media%20Accounts;Check%20my%20Popular%20repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
-  </p>
+<div align="center">
+  <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
+    
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Check+my+popular+repositories;+Visit+my+Social+Accounts)
+</div>
 
   <p>
     <a href="https://www.google.com.eg/search?q=A-Hemeda"> <!-- Google Me -->
