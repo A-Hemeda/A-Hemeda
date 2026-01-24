@@ -15,12 +15,6 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&color=30F050&center=true&vCenter=true&width=500&height=70&pause=2000&duration=2000&lines=Check+my+popular+repositories;+Visit+my+Social+Accounts)
 </div>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/A-Hemeda/A-Hemeda/blob/output/snake.svg)
-
-</div>
-
   <p>
     <a href="https://www.google.com.eg/search?q=A-Hemeda"> <!-- Google Me -->
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3010A0" style="height:30px; object-fit:contain;"/></a>
