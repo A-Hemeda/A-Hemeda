@@ -15,26 +15,14 @@ while ($true) {
         
         Write-Host "[$timestamp] Checking for changes..." -ForegroundColor Cyan
         
-        # Check if there are any changes
-        $status = git status --porcelain
-        
-        if ($status) {
-            Write-Host "📝 Changes detected. Committing..." -ForegroundColor Yellow
-            
-            # Add all changes
-            git add .
-            
-            # Commit with timestamp
-            git commit -m "Auto-commit: $timestamp"
-            
-            # Push to remote
-            git push origin main
-            
-            Write-Host "✅ Changes committed and pushed!" -ForegroundColor Green
-        } else {
-            Write-Host "✓ No changes to commit." -ForegroundColor Gray
-        }
-        
+        Write-Host "📝 Committing (even if no changes)..." -ForegroundColor Yellow
+        # Add all changes
+        git add .
+        # Commit with timestamp, allow empty
+        git commit --allow-empty -m "Auto-commit: $timestamp"
+        # Push to remote
+        git push origin main
+        Write-Host "✅ Commit (possibly empty) pushed!" -ForegroundColor Green
         Write-Host "⏳ Next check in 20 minutes..." -ForegroundColor Cyan
         Write-Host ""
         
