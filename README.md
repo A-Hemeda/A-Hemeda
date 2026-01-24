@@ -62,4 +62,4 @@
     <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="120"/>
   </p>
 
-![Snake Animation](https://github.com/A-Hemeda/A-Hemeda/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://github.com/A-Hemeda/A-Hemeda/blob/output/snake-dark.svg)
