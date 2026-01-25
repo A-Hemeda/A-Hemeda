@@ -56,10 +56,14 @@
   
 ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
 
+### 🔥 GitHub Streak Stats
+
 <br>
 
   <p align="left">
     <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="120"/>
   </p>
+
+### 🐍 Contribution Snake Animation
 
 ![Snake Animation](https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/github-contribution-grid-snake-dark.svg)
