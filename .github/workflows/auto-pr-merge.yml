@@ -1,0 +1,41 @@
+name: Auto PR and Merge
+
+on:
+  schedule:
+    # Run every 3 hours
+    - cron: "0 */3 * * *"
+  
+  workflow_dispatch:
+
+jobs:
+  auto_pr_merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Create or update pull request
+        run: |
+          git config --local user.email "7hemeda@gmail.com"
+          git config --local user.name "A-Hemeda"
+          
+          # Get current branch
+          BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          
+          # Check if there are any changes
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes detected, creating empty commit for workflow trigger"
+            git commit --allow-empty -m "Scheduled merge workflow - $(date '+%Y-%m-%d %H:%M:%S')"
+            git push origin $BRANCH
+          fi
+
+      - name: Auto merge pull requests
+        uses: "pascalgn/automerge-action@v0.16"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MERGE_METHOD: squash
+          MERGE_COMMIT_MESSAGE: "Scheduled merge - {pullRequestNumber}"
+          MERGE_RETRIES: 5
+          MERGE_RETRY_SLEEP: 10000
