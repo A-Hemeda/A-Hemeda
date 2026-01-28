@@ -6,7 +6,7 @@ on:
       - main
       
   schedule:
-    - cron: "0 * * * *"  # Run every hour on the hour 
+    - cron: "*/10 * * * *"  # Run every 10 minutes 
 
 jobs:
   auto_commit:
