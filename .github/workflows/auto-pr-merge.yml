@@ -4,38 +4,65 @@ on:
   schedule:
     # Run every 3 hours
     - cron: "0 */3 * * *"
-  
   workflow_dispatch:
 
 jobs:
-  auto_pr_merge:
+  create_and_merge_pr:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      - name: Create or update pull request
+      - name: Configure git
         run: |
           git config --local user.email "7hemeda@gmail.com"
           git config --local user.name "A-Hemeda"
-          
-          # Get current branch
-          BRANCH=$(git rev-parse --abbrev-ref HEAD)
-          
-          # Check if there are any changes
-          if [ -z "$(git status --porcelain)" ]; then
-            echo "No changes detected, creating empty commit for workflow trigger"
-            git commit --allow-empty -m "Scheduled merge workflow - $(date '+%Y-%m-%d %H:%M:%S')"
-            git push origin $BRANCH
-          fi
 
-      - name: Auto merge pull requests
-        uses: "pascalgn/automerge-action@v0.16"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MERGE_METHOD: squash
-          MERGE_COMMIT_MESSAGE: "Scheduled merge - {pullRequestNumber}"
-          MERGE_RETRIES: 5
-          MERGE_RETRY_SLEEP: 10000
+      - name: Create feature branch
+        run: |
+          BRANCH="auto-merge-$(date '+%Y%m%d-%H%M%S')"
+          echo "BRANCH=$BRANCH" >> $GITHUB_ENV
+          git checkout -b "$BRANCH"
+          
+          # Create a small change to trigger the PR
+          echo "Auto PR at $(date '+%Y-%m-%d %H:%M:%S')" >> LAST_UPDATED
+          git add LAST_UPDATED
+          git commit -m "Auto PR update - $(date '+%Y-%m-%d %H:%M:%S')"
+          git push origin "$BRANCH"
+
+      - name: Create Pull Request
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const branch = process.env.BRANCH;
+            const pr = await github.rest.pulls.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Auto PR: ${new Date().toISOString()}`,
+              body: 'Automatic pull request created by workflow',
+              head: branch,
+              base: 'main',
+              maintainer_can_modify: true
+            });
+            console.log('PR created:', pr.data.number);
+            core.exportVariable('PR_NUMBER', pr.data.number);
+
+      - name: Auto merge Pull Request
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const prNumber = process.env.PR_NUMBER || '${{ github.event.pull_request.number }}';
+            if (prNumber) {
+              await github.rest.pulls.merge({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: parseInt(prNumber),
+                merge_method: 'squash'
+              });
+              console.log('PR merged:', prNumber);
+            }

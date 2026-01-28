@@ -1,54 +1,38 @@
 name: Auto commit
 
 on:
-  push:
-    branches:
-      - main
-      
   schedule:
-    - cron: "*/10 * * * *"  # Run every 10 minutes 
+    - cron: "*/10 * * * *"  # Run every 10 minutes
+  workflow_dispatch:
 
 jobs:
   auto_commit:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: DEBUG 
-        run: echo "::debug::Ref = ${{github.ref}}"
-      - uses: actions/checkout@v3      
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
-         persist-credentials: false
-         fetch-depth: 0
+          fetch-depth: 0
 
-      - name: Modify last update
+      - name: Update timestamp
         run: |
-          d=`date '+%Y-%m-%dT%H:%M:%SZ'`
-          echo $d > LAST_UPDATED
+          d=$(date '+%Y-%m-%dT%H:%M:%SZ')
+          echo "$d" > LAST_UPDATED
+          cat LAST_UPDATED
           
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
-          git pull
           git config --local user.email "7hemeda@gmail.com"
           git config --local user.name "A-Hemeda"
           git add -A
           
-          arr[0]="Update.."
-          arr[1]="Update LAST_UPDATED file"
-          arr[2]="Update LAST_UPDATED .."
-          arr[3]="Update LAST_UPDATED file .."
-          arr[4]="LAST_UPDATED file.."
-          arr[5]="Update LAST_UPDATED"
-          arr[6]="LAST_UPDATED file"
-          arr[7]="LAST_UPDATED"
-          arr[8]="LAST_UPDATED.."
-          arr[9]="Update LAST_UPDATED file..."
-          
-          rand=$[$RANDOM % ${#arr[@]}]
-          
-          git commit -m "${arr[$rand]}"
-          
-      - name: GitHub Push
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          branch: main
-          directory: "."
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Check if there are changes to commit
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "Auto-commit: $(date '+%Y-%m-%d %H:%M:%S')"
+            git push origin main
+            echo "Committed and pushed changes"
+          else
+            echo "No changes to commit"
+          fi
