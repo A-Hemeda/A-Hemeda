@@ -1,12 +1,12 @@
 # Auto-Commit Script
-# Automatically commits and pushes changes every 10 minutes
+# Automatically commits and pushes changes every 180 seconds (3 minutes)
 
 Write-Host "🤖 Auto-Commit Script Started" -ForegroundColor Green
-Write-Host "⏰ Will commit every 10 minutes. Press Ctrl+C to stop." -ForegroundColor Yellow
+Write-Host "⏰ Will commit every 180 seconds (3 minutes). Press Ctrl+C to stop." -ForegroundColor Yellow
 Write-Host ""
 
-# Interval in seconds (10 minutes = 600 seconds)
-$interval = 600
+# Interval in seconds (180 seconds = 3 minutes)
+$interval = 180
 
 while ($true) {
     try {
@@ -23,15 +23,15 @@ while ($true) {
         # Push to remote
         git push origin main
         Write-Host "✅ Commit (possibly empty) pushed!" -ForegroundColor Green
-        Write-Host "⏳ Next check in 10 minutes..." -ForegroundColor Cyan
+        Write-Host "⏳ Next check in 180 seconds..." -ForegroundColor Cyan
         Write-Host ""
         
-        # Wait for 20 minutes
+        # Wait for 180 seconds
         Start-Sleep -Seconds $interval
         
     } catch {
         Write-Host "❌ Error: $_" -ForegroundColor Red
-        Write-Host "Retrying in 10 minutes..." -ForegroundColor Yellow
+        Write-Host "Retrying in 180 seconds..." -ForegroundColor Yellow
         Write-Host ""
         Start-Sleep -Seconds $interval
     }
