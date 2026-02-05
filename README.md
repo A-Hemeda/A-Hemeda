@@ -60,13 +60,13 @@
 
   <br>
   
-![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
+  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
 
 <br>
 
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-Hemeda&theme=github_dark" height="175"/> &nbsp;
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A-Hemeda&theme=github_dark" height="175"/>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-Hemeda&theme=github_dark" height="176"/> &nbsp;
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A-Hemeda&theme=github_dark" height="176"/>
   </p>
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-Hemeda&theme=github_dark)
