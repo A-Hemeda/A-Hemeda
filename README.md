@@ -59,10 +59,8 @@
   <br>
 
   <p align="left">
-    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/>
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="135"/>
   </p>
-
-  <br>
 
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-Hemeda&theme=github_dark" height="176"/> &nbsp;
