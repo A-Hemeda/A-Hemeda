@@ -64,7 +64,7 @@
 
 <br>
 
-  <p>
+  <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-Hemeda&theme=github_dark" height="175"/> &nbsp;
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A-Hemeda&theme=github_dark" height="175"/>
   </p>
