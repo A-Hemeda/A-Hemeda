@@ -14,11 +14,11 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=27&color=30F050&center=true&vCenter=true&width=500&height=70&pause=2000&duration=2000&lines=Check+my+popular+repositories;+Visit+my+Social+Accounts)
 </div>
 
-  <p>
+  <p align="center">
     <a href="https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view">
-      <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:35px; object-fit:contain;"/></a> &nbsp;
+      <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:37px; object-fit:contain;"/></a> &nbsp;
     <a href="https://a-hemeda.github.io/Portfolio">
-      <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:35px; object-fit:contain;"/></a>
+      <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:37px; object-fit:contain;"/></a>
   </p>
   
   <p>
