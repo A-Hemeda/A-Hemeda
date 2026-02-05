@@ -51,10 +51,14 @@
   <p align="left">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,dapper,redis,html,css,js,postman,swagger,git&perline=7" style="height:113px;"/>
   </p>
+  
+  <br>
 
   <p align="left">
     <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/>
   </p>
+
+  <br>
   
 ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
 
