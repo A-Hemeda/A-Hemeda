@@ -6,7 +6,6 @@
   </p>
 
 <h1 align="center">Hi, I'm Ahmed Hemeda</h1>
-
 <h2 align="center">Software Engineer | .NET Developer | Full Stack</h2>
 
 <div align="center">
@@ -58,7 +57,10 @@
   </p>
   
 ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
-![Snake Animation](https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/github-contribution-grid-snake-dark.svg)
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-Hemeda&theme=github_dark)
+
+<br>
+
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-Hemeda&theme=github_dark)
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A-Hemeda&theme=github_dark)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-Hemeda&theme=github_dark)
+![Snake Animation](https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/github-contribution-grid-snake-dark.svg)
