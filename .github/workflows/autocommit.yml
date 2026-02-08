@@ -2,7 +2,7 @@ name: Auto commit
 
 on:
   schedule:
-    - cron: "*/10 * * * *"  # Run every 10 minutes
+    - cron: "*/8 * * * *"
   workflow_dispatch:
 
 jobs:

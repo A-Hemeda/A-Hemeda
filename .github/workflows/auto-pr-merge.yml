@@ -64,3 +64,8 @@ jobs:
                 merge_method: 'squash'
               });
             }
+
+      - name: Delete feature branch
+        if: success()
+        run: |
+          git push origin --delete ${{ env.BRANCH }}
