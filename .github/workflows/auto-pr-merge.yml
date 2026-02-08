@@ -2,7 +2,6 @@ name: Auto PR and Merge
 
 on:
   schedule:
-    # Run every 3 hours
     - cron: "0 */3 * * *"
   workflow_dispatch:
 
@@ -28,16 +27,15 @@ jobs:
           BRANCH="auto-merge-$(date '+%Y%m%d-%H%M%S')"
           echo "BRANCH=$BRANCH" >> $GITHUB_ENV
           git checkout -b "$BRANCH"
-          
-          # Create a small change to trigger the PR
           echo "Auto PR at $(date '+%Y-%m-%d %H:%M:%S')" >> LAST_UPDATED
           git add LAST_UPDATED
-          git commit -m "Auto PR update - $(date '+%Y-%m-%d %H:%M:%S')"
+          git commit --author="A-Hemeda <7hemeda@gmail.com>" -m "Auto PR update - $(date '+%Y-%m-%d %H:%M:%S')"
           git push origin "$BRANCH"
 
       - name: Create Pull Request
         uses: actions/github-script@v6
         with:
+          github-token: ${{ secrets.MY_PERSONAL_TOKEN }}
           script: |
             const branch = process.env.BRANCH;
             const pr = await github.rest.pulls.create({
@@ -49,12 +47,17 @@ jobs:
               base: 'main',
               maintainer_can_modify: true
             });
-            console.log('PR created:', pr.data.number);
             core.exportVariable('PR_NUMBER', pr.data.number);
+        env:
+          GIT_AUTHOR_NAME: A-Hemeda
+          GIT_AUTHOR_EMAIL: 7hemeda@gmail.com
+          GIT_COMMITTER_NAME: A-Hemeda
+          GIT_COMMITTER_EMAIL: 7hemeda@gmail.com
 
       - name: Auto merge Pull Request
         uses: actions/github-script@v6
         with:
+          github-token: ${{ secrets.MY_PERSONAL_TOKEN }}
           script: |
             const prNumber = process.env.PR_NUMBER || '${{ github.event.pull_request.number }}';
             if (prNumber) {
@@ -64,5 +67,4 @@ jobs:
                 pull_number: parseInt(prNumber),
                 merge_method: 'squash'
               });
-              console.log('PR merged:', prNumber);
             }
