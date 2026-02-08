@@ -13,7 +13,7 @@ jobs:
       pull-requests: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.MY_PERSONAL_TOKEN }}
@@ -28,13 +28,13 @@ jobs:
           BRANCH="auto-merge-$(date '+%Y%m%d-%H%M%S')"
           echo "BRANCH=$BRANCH" >> $GITHUB_ENV
           git checkout -b "$BRANCH"
-          echo "Auto PR at $(date '+%Y-%m-%d %H:%M:%S')" >> LAST_UPDATED
+          echo "Auto PR at $(date '+%Y-%m-%d %H:%M:%S')" > LAST_UPDATED
           git add LAST_UPDATED
           git commit --author="A-Hemeda <7hemeda@gmail.com>" -m "Auto PR update - $(date '+%Y-%m-%d %H:%M:%S')"
           git push origin "$BRANCH"
 
       - name: Create Pull Request
-        uses: actions/github-script@v6
+        uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.MY_PERSONAL_TOKEN }}
           script: |
@@ -51,7 +51,7 @@ jobs:
             core.exportVariable('PR_NUMBER', pr.data.number);
 
       - name: Auto merge Pull Request
-        uses: actions/github-script@v6
+        uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.MY_PERSONAL_TOKEN }}
           script: |
