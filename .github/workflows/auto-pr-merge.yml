@@ -66,6 +66,6 @@ jobs:
             }
 
       - name: Delete feature branch
-        if: success()
+        if: always() && env.BRANCH != ''
         run: |
-          git push origin --delete ${{ env.BRANCH }}
+          git push origin --delete "${{ env.BRANCH }}" || true
