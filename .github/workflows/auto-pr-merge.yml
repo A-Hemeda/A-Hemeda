@@ -16,6 +16,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
+          token: ${{ secrets.MY_PERSONAL_TOKEN }}
 
       - name: Configure git
         run: |
@@ -48,18 +49,13 @@ jobs:
               maintainer_can_modify: true
             });
             core.exportVariable('PR_NUMBER', pr.data.number);
-        env:
-          GIT_AUTHOR_NAME: A-Hemeda
-          GIT_AUTHOR_EMAIL: 7hemeda@gmail.com
-          GIT_COMMITTER_NAME: A-Hemeda
-          GIT_COMMITTER_EMAIL: 7hemeda@gmail.com
 
       - name: Auto merge Pull Request
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.MY_PERSONAL_TOKEN }}
           script: |
-            const prNumber = process.env.PR_NUMBER || '${{ github.event.pull_request.number }}';
+            const prNumber = process.env.PR_NUMBER;
             if (prNumber) {
               await github.rest.pulls.merge({
                 owner: context.repo.owner,
