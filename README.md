@@ -26,7 +26,7 @@
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3010A0" style="height:25px; object-fit:contain;"/></a>
   </p>
 
-  ### 📤 Connect & Competitive Programming
+  ### 📤 My Social Accounts
   <p align="left">
     <a href="mailto:7hemeda@gmail.com">
       <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
