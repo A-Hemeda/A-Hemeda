@@ -2,7 +2,7 @@ name: Auto commit
 
 on:
   schedule:
-    - cron: "*/8 * * * *"
+    - cron: "*/7 * * * *"
   workflow_dispatch:
 
 jobs:
