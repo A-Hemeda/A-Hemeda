@@ -50,15 +50,7 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,dapper,html,css,js,postman,swagger,git&perline=6" style="height:105px;"/> &nbsp;
     <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="105"/>
   </p>
-  
-  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
-  
-  <br>
-
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-Hemeda&theme=github_dark" height="176"/> &nbsp;
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A-Hemeda&theme=github_dark" height="176"/>
+    <img src="https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
   </p>
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-Hemeda&theme=github_dark)
 ![Snake Animation](https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/github-contribution-grid-snake-dark.svg)
