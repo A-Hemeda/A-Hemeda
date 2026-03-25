@@ -16,14 +16,14 @@
 
   <p align="center">
     <a href="https://drive.google.com/file/d/1EeHR_2i_uwXXcqO0BDn08MU_azTKeUzq/view">
-      <img src="https://img.shields.io/badge/My CV-007520?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
+      <img src="https://img.shields.io/badge/My CV-006020?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
     <a href="https://a-hemeda.github.io/Portfolio">
-      <img src="https://img.shields.io/badge/My Portfolio-007520?style=flat" style="height:35px; object-fit:contain;"/></a>
+      <img src="https://img.shields.io/badge/My Portfolio-006020?style=flat" style="height:35px; object-fit:contain;"/></a>
   </p>
   
   <p>
     <a href="https://www.google.com.eg/search?q=A-Hemeda"> <!-- Google Me -->
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=007520" style="height:25px; object-fit:contain;"/></a>
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=005020" style="height:25px; object-fit:contain;"/></a>
   </p>
 
   ### 📤 My Social Accounts
