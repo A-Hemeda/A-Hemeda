@@ -11,19 +11,19 @@
 <div align="center">
   <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
     
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=30F050&center=true&vCenter=true&width=500&height=70&pause=3000&duration=2000&lines=Check+my+popular+repositories;+Visit+my+Social+Accounts)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=25E045&center=true&vCenter=true&width=500&height=70&pause=3000&duration=2000&lines=Check+my+popular+repositories;+Visit+my+Social+Accounts)
 </div>
 
   <p align="center">
     <a href="https://drive.google.com/file/d/1EeHR_2i_uwXXcqO0BDn08MU_azTKeUzq/view">
-      <img src="https://img.shields.io/badge/My CV-006020?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
+      <img src="https://img.shields.io/badge/My CV-005020?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
     <a href="https://a-hemeda.github.io/Portfolio">
-      <img src="https://img.shields.io/badge/My Portfolio-006020?style=flat" style="height:35px; object-fit:contain;"/></a>
+      <img src="https://img.shields.io/badge/My Portfolio-005020?style=flat" style="height:35px; object-fit:contain;"/></a>
   </p>
   
   <p>
     <a href="https://www.google.com.eg/search?q=A-Hemeda"> <!-- Google Me -->
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=005020" style="height:25px; object-fit:contain;"/></a>
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=004020" style="height:25px; object-fit:contain;"/></a>
   </p>
 
   ### 📤 My Social Accounts
