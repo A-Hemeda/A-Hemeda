@@ -29,21 +29,21 @@
   ### 📤 My Social Accounts
   <p align="left">
     <a href="mailto:7hemeda@gmail.com">
-      <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="40"/></a> &nbsp;
+      <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="45"/></a> &nbsp;
     <a href="https://linkedin.com/in/a-hemeda">
-      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="40"/></a> &nbsp;
+      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/></a> &nbsp;
     <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
-      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="40"/></a>
+      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/></a>
     <a href="https://x.com/11Hemeda">
-      <img src="https://images.seeklogo.com/logo-png/49/2/twitter-x-logo-png_seeklogo-492396.png" height="40"/></a> &nbsp;
+      <img src="https://images.seeklogo.com/logo-png/49/2/twitter-x-logo-png_seeklogo-492396.png" height="45"/></a> &nbsp;
     <a href="https://youtube.com/@A-Hemeda">
-      <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="40"/></a> &nbsp;
+      <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="45"/></a> &nbsp;
     <a href="https://leetcode.com/u/11Hemeda">
-      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="40"/></a> &nbsp;
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="45"/></a> &nbsp;
     <a href="https://codeforces.com/profile/Hemeda1">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="40"/></a> &nbsp;
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="45"/></a> &nbsp;
     <a href="https://stackoverflow.com/users/28317461/ahmed-hemeda">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" height="40"/></a>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" height="45"/></a>
   </p>
 
 ### 🛠️ Top Technical Skills & Tools
