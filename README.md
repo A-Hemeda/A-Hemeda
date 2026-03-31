@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
     
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=25E045&center=true&vCenter=true&width=500&height=57&pause=3000&duration=2000&lines=Check+my+popular+repositories;+Visit+my+Social+Accounts)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=21&color=25E045&center=true&vCenter=true&width=500&height=57&pause=3000&duration=2000&lines=Check+my+popular+repositories;+Visit+my+Social+Accounts)
 </div>
 
   <p align="center">
