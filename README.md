@@ -38,8 +38,6 @@
       <img src="https://images.seeklogo.com/logo-png/49/2/twitter-x-logo-png_seeklogo-492396.png" height="45"/></a> &nbsp;
     <a href="https://youtube.com/@A-Hemeda">
       <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="45"/></a> &nbsp;
-    <a href="https://stackoverflow.com/users/28317461/ahmed-hemeda">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" height="45"/></a>
   </p>
 
 ### 🛠️ Top Technical Skills & Tools
