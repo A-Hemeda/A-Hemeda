@@ -22,7 +22,7 @@
   </p>
   
   <p>
-    <a href="https://www.google.com.eg/search?q=A-Hemeda"> <!-- Google Me -->
+    <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=004020" style="height:25px; object-fit:contain;"/></a>
   </p>
 
