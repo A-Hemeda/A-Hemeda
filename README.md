@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
     
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=21&color=25E045&center=true&vCenter=true&width=500&height=53&pause=3000&duration=2000&lines=Check+out+my+popular+repositories;+Follow+my+social+accounts)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=21&color=25E045&center=true&vCenter=true&width=500&height=53&pause=3000&duration=2000&lines=Check+out+my+popular+repositories;+Follow+to+get+more+updates)
 </div>
 
   <p align="center">
@@ -26,7 +26,7 @@
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=004020" style="height:25px; object-fit:contain;"/></a>
   </p>
 
-  ### 📤 My Social Accounts
+  ### 📤 Find me on
   <p align="left">
     <a href="mailto:7hemeda@gmail.com">
       <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="45"/></a> &nbsp;
