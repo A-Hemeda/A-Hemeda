@@ -2,7 +2,7 @@ name: Generate pacman contribution graph
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # كل 12 ساعة
+    - cron: '0 */6 * * *'
   workflow_dispatch:
   push:
     branches:
@@ -16,17 +16,14 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # ✅ جلب المستودع
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # ✅ توليد Pacman Contribution Graph
       - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: "A-Hemeda" # ضع هنا اسم حسابك على GitHub
+          github_user_name: "A-Hemeda"
 
-      # ✅ نشر الصورة على فرع output
       - name: Publish pacman graph to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
