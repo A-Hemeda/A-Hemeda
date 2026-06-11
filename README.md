@@ -23,7 +23,7 @@
 
   <p>
     <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=48288A" style="height:25px; object-fit:contain;"/></a>
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=plastic&color=48288A" style="height:25px; object-fit:contain;"/></a>
   </p>
 
   ### 📤 Find me on
