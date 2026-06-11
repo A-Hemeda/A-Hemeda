@@ -1,8 +1,10 @@
   <p align="center">
     <a href="https://gh-most-followed.pages.dev/egypt">
-      <img src="https://img.shields.io/badge/14ᵗʰ Most Followed User 🇪🇬-262827?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
+      <img src="https://img.shields.io/badge/14ᵗʰ Most Followed User 🇪🇬-262827?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/>
+    </a> &nbsp;
     <a href="https://committers.top/egypt">
-      <img src="https://img.shields.io/badge/5ᵗʰ Most Active User 🇪🇬-262827?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
+      <img src="https://img.shields.io/badge/5ᵗʰ Most Active User 🇪🇬-262827?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/>
+    </a>
   </p>
 
 <h1 align="center">Hi, I'm Ahmed Hemeda</h1>
@@ -16,26 +18,33 @@
 
   <p align="center">
     <a href="https://drive.google.com/file/d/1EeHR_2i_uwXXcqO0BDn08MU_azTKeUzq/view">
-      <img src="https://img.shields.io/badge/CV-005020?style=flat" style="height:37px; object-fit:contain;"/></a> &nbsp;
+      <img src="https://img.shields.io/badge/CV-005020?style=for-the-badge" style="height:37px; object-fit:contain;"/>
+    </a> &nbsp;
     <a href="https://a-hemeda.github.io/Portfolio">
-      <img src="https://img.shields.io/badge/Portfolio-005020?style=flat" style="height:37px; object-fit:contain;"/></a>
+      <img src="https://img.shields.io/badge/Portfolio-005020?style=for-the-badge" style="height:37px; object-fit:contain;"/>
+    </a>
   </p>
 
   <p>
     <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=004020" style="height:25px; object-fit:contain;"/></a>
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=004020" style="height:25px; object-fit:contain;"/>
+    </a>
   </p>
 
   ### 📤 Find me on
   <p align="left">
     <a href="mailto:7hemeda@gmail.com">
-      <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="45"/></a> &nbsp;
+      <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="45"/>
+    </a> &nbsp;
     <a href="https://linkedin.com/in/a-hemeda">
-      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/></a> &nbsp;
+      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/>
+    </a> &nbsp;
     <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
-      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/></a> &nbsp;
+      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/>
+    </a> &nbsp;
     <a href="https://youtube.com/@A-Hemeda">
-      <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="45"/></a>
+      <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="45"/>
+    </a>
   </p>
 
 ### 🛠️ Top Technical Skills & Tools
@@ -58,4 +67,3 @@
     <img src="https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
   </picture>
 </div>
-
