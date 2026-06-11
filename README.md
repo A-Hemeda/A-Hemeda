@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
-    
+
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=21&color=25E045&center=true&vCenter=true&width=500&height=53&pause=3000&duration=2000&lines=Check+out+my+popular+repos;+Follow+to+get+more+updates)
 </div>
 
@@ -20,7 +20,7 @@
     <a href="https://a-hemeda.github.io/Portfolio">
       <img src="https://img.shields.io/badge/My Portfolio-005020?style=flat" style="height:35px; object-fit:contain;"/></a>
   </p>
-  
+
   <p>
     <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
       <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=004020" style="height:25px; object-fit:contain;"/></a>
@@ -46,9 +46,16 @@
   </p>
 
   ### 🏆 GitHub Trophies
-  
+
   <p align="center">
     <img src="https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
   </p>
 
-![Snake Animation](https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
+  </picture>
+</div>
+
