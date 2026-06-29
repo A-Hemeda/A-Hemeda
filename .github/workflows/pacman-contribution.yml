@@ -24,7 +24,7 @@ jobs:
         with:
           github_user_name: "A-Hemeda"
           outputs: |
-            dist/pacman-contribution-graph.svg?palette=github-dark
+            dist/pacman-contribution-graph.svg?color_snake=#25E045&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39&dark_color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&color_background=#0d1117
 
       - name: Publish pacman graph to output branch
         uses: crazy-max/ghaction-github-pages@v4
