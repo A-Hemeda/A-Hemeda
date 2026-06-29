@@ -23,6 +23,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: "A-Hemeda"
+          theme: github-dark
 
       - name: Publish pacman graph to output branch
         uses: crazy-max/ghaction-github-pages@v4
