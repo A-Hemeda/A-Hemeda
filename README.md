@@ -51,6 +51,6 @@
     <img src="https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
   </p>
 
-### 👾 Pacman Contribution Graph
-
-![Pacman](https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/pacman-contribution-graph.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
+</div>
