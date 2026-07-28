@@ -35,7 +35,11 @@
     <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
       <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/></a> &nbsp;
     <a href="https://youtube.com/@A-Hemeda">
-      <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="45"/></a>
+      <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="45"/></a> &nbsp;
+    <a href="https://leetcode.com/u/11Hemeda">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45"/></a> &nbsp;
+    <a href="https://codeforces.com/profile/B_UNNY">
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-png-download-2944796.png" height="45"/></a>
   </p>
 
 ### 🛠️ Top Technical Skills & Tools
