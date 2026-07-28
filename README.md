@@ -29,7 +29,7 @@
   ### 📤 Find me on
   <p align="left">
     <a href="mailto:7hemeda@gmail.com">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Gmail_icon_%282026%29.svg" height="40"/></a> &nbsp;
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.png" height="45"/></a> &nbsp;
     <a href="https://linkedin.com/in/a-hemeda">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/></a> &nbsp;
     <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
