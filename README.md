@@ -16,9 +16,9 @@
 
   <p align="center">
     <a href="https://drive.google.com/file/d/1EeHR_2i_uwXXcqO0BDn08MU_azTKeUzq/view">
-      <img src="https://img.shields.io/badge/📄 My CV-0D4430?style=plastic" style="height:38px; object-fit:contain;"/></a> &nbsp; &nbsp;
+      <img src="https://img.shields.io/badge/📄 My CV-0D4430?style=plastic" style="height:37px; object-fit:contain;"/></a> &nbsp; &nbsp;
     <a href="https://a-hemeda.github.io/Portfolio">
-      <img src="https://img.shields.io/badge/🌐 My Portfolio-0D4430?style=plastic" style="height:38px; object-fit:contain;"/></a>
+      <img src="https://img.shields.io/badge/🌐 My Portfolio-0D4430?style=plastic" style="height:37px; object-fit:contain;"/></a>
   </p>
 
   <p>
