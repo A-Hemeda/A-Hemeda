@@ -45,7 +45,7 @@
 ### 🛠️ Top Technical Skills & Tools
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,dapper,html,css,js,postman,swagger,git&perline=6" style="height:105px;"/> &nbsp;
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,python,git,html,css,js,ts,postman,swagger&perline=7" style="height:105px;"/> &nbsp;
     <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="105"/>
   </p>
 
