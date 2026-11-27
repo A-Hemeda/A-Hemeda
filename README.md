@@ -43,16 +43,9 @@
   </p>
 
 ### 🛠️ Top Technical Skills & Tools
-
   <p align="left">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,python,git,html,css,js,ts,postman,swagger&perline=7" style="height:105px;"/> &nbsp;
     <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="105"/>
-  </p>
-
-  ### 🏆 GitHub Trophies
-
-  <p align="center">
-    <img src="https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
   </p>
 
 <div align="center">
