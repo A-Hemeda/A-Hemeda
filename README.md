@@ -1,10 +1,3 @@
-  <p align="center">
-    <a href="https://gh-most-followed.pages.dev/egypt">
-      <img src="https://img.shields.io/badge/10ᵗʰ Most Followed User 🇪🇬-262827?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
-    <a href="https://committers.top/egypt">
-      <img src="https://img.shields.io/badge/10ᵗʰ Most Active User 🇪🇬-262827?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
-  </p>
-
 <h1 align="center">Hi, I'm Ahmed Hemeda</h1>
 <h2 align="center">Software Engineer | Full Stack Developer</h2>
 
@@ -13,13 +6,6 @@
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=21&color=25E045&center=true&vCenter=true&width=500&height=53&pause=3000&duration=2000&lines=Check+out+my+popular+repos;+Follow+to+get+more+updates)
 </div>
-
-  <p align="center">
-    <a href="https://drive.google.com/file/d/1EeHR_2i_uwXXcqO0BDn08MU_azTKeUzq/view">
-      <img src="https://img.shields.io/badge/📄 My CV-0D4430?style=plastic" style="height:37px; object-fit:contain;"/></a> &nbsp; &nbsp;
-    <a href="https://a-hemeda.github.io/Portfolio">
-      <img src="https://img.shields.io/badge/🌐 My Portfolio-0D4430?style=plastic" style="height:37px; object-fit:contain;"/></a>
-  </p>
 
   <p>
     <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
