@@ -29,7 +29,7 @@
   </p>
 
   <p align="left">
-    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="105"/>
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="150"/>
   </p>
 
 <div align="center">
