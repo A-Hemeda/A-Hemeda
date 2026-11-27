@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=21&color=25E045&center=true&vCenter=true&width=500&height=53&pause=3000&duration=2000&lines=Check+my+popular+repos;+Follow+to+get+more+updates)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=21&color=25E045&center=true&vCenter=true&width=500&height=53&pause=3000&duration=2000&lines=Check+my+popular+repos;+Follow+for+more+updates)
 </div>
 
   <p>
