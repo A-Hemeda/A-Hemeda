@@ -9,7 +9,7 @@
 
   <p>
     <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=plastic&color=0D4430" style="height:25px; object-fit:contain;"/></a>
+      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=plastic&color=0D4430" style="height:27px; object-fit:contain;"/></a>
   </p>
 
   ### 📤 Find me on
@@ -29,7 +29,7 @@
   </p>
 
   <p align="left">
-    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="150"/>
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="140"/>
   </p>
 
 <div align="center">
