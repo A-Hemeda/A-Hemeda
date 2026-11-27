@@ -28,6 +28,10 @@
       <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-png-download-2944796.png" height="45"/></a>
   </p>
 
+  <p align="left">
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="105"/>
+  </p>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/pacman-contribution-graph-dark.svg" />
