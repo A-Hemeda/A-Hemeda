@@ -30,6 +30,7 @@
 
   <p align="left">
     <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="140"/>
+    <img height="145" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=A-Hemeda&show_icons=true&theme=highcontrast&title_color=0891b2&icon_color=0891b2&hide_border=true&bg_color=00000000&count_private=true"/>
   </p>
 
 <div align="center">
