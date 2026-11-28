@@ -30,13 +30,13 @@
 
   <p align="left">
     <img src="https://streak-stats.demolab.com/?user=A-Hemeda&theme=highcontrast&hide_border=true" height="140"/>
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=A-Hemeda&show_icons=true&theme=onedark&hide_border=true" height="140"/>
+    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=A-Hemeda&show_icons=true&theme=highcontrast&hide_border=true" height="140"/>
   </p>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
+    <img src="https://raw.githubusercontent.com/A-Hemeda/A-Hemeda/output/pacman-contribution-graph.svg"/>
   </picture>
 </div>
