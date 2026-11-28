@@ -29,8 +29,8 @@
   </p>
 
   <p align="left">
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=A-Hemeda&show_icons=true&theme=highcontrast&hide_border=true" height="145"/>
-    <img src="https://streak-stats.demolab.com/?user=A-Hemeda&theme=highcontrast&hide_border=true" height="140"/>
+    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=A-Hemeda&show_icons=true&theme=highcontrast&hide_border=true" height="140"/>
+    <img src="https://streak-stats.demolab.com/?user=A-Hemeda&theme=highcontrast&hide_border=true" height="133"/>
   </p>
 
 <div align="center">
