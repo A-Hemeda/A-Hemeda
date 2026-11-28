@@ -29,7 +29,7 @@
   </p>
 
   <p align="left">
-    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast&hide_border=true" height="140"/>
+    <img src="https://streak-stats.demolab.com/?user=A-Hemeda&theme=highcontrast&hide_border=true" height="140"/>
     <img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=A-Hemeda&show_icons=true&theme=onedark&hide_border=true" height="140"/>
   </p>
 
